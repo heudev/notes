@@ -1514,7 +1514,7 @@
 
 <hr>
 
-**West-** _(west)_ 
+**West** _(west)_ 
 - `Lebst du im Westen Deutschlands?` _(Do you live in the west of Germany?)_
 - `Ja, ich lebe im Westen Deutschlands.` _(Yes, I live in the west of Germany.)_
 
