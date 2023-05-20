@@ -1,3 +1,8 @@
+<style>
+body {
+  background-color: #92a8d1;
+}
+</style>
 
 **Beruf** _(Job)_
 - `Was ist dein Beruf?` _(What is your job?)_
