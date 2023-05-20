@@ -1,400 +1,400 @@
 
-Beruf (Job) 
-- Was ist dein Beruf? (What is your job?) 
-- Ich bin Lehrer. (I'm a teacher.)
-
-Termin (Appointment) 
-- Haben Sie einen Termin? (Do you have an appointment?) 
-- Ja, ich habe einen Termin um 3 Uhr. (Yes, I have an appointment at 3 o'clock.)
-
-Arzt (Doctor) 
-- Wo ist der Arzt? (Where is the doctor?) 
-- Der Arzt ist im Krankenhaus. (The doctor is in the hospital.)
-
-Apotheke (Pharmacy) 
-- Wo ist die nächste Apotheke? (Where is the nearest pharmacy?) 
-- Die nächste Apotheke ist um die Ecke. (The nearest pharmacy is around the corner.)
-
-Super (Great) 
-- Wie geht es dir? (How are you?) 
-- Mir geht es super. (I'm great.)
-
-Praktikum (Internship) 
-- Hast du ein Praktikum gemacht? (Did you do an internship?) 
-- Ja, ich habe ein Praktikum bei einer Zeitung gemacht. (Yes, I did an internship at a newspaper.)
-
-Post (Post/Mail) 
-- Hast du die Post schon abgeholt? (Did you already pick up the mail?) 
-- Ja, ich habe sie gerade abgeholt. (Yes, I just picked it up.)
-
-Schmecken (Taste) 
-- Wie schmeckt das Essen? (How does the food taste?) 
-- Das Essen schmeckt gut. (The food tastes good.)
-
-Deutschkurs (German course) 
-- Hast du einen Deutschkurs besucht? (Have you attended a German course?) 
-- Ja, ich habe einen Deutschkurs besucht. (Yes, I have attended a German course.)
-
-Parkplatz (Parking spot) 
-- Wo ist ein Parkplatz? (Where is a parking spot?) 
-- Es gibt einen Parkplatz vor dem Gebäude. (There is a parking spot in front of the building.)
-
-Langweilig (Boring) 
-- Ist der Film langweilig? (Is the movie boring?) 
-- Nein, der Film ist nicht langweilig. (No, the movie is not boring.)
-
-Ausbildung (Training) 
-- Hast du eine Ausbildung? (Do you have a training?) 
-- Ja, ich habe eine Ausbildung als Koch. (Yes, I have training as a cook.)
-
-Abfahren (Depart) 
-- Wann fährt der Zug ab? (When does the train depart?) 
-- Der Zug fährt um 10 Uhr ab. (The train departs at 10 o'clock.)
-
-Geburtstag (Birthday) 
-- Wann ist dein Geburtstag? (When is your birthday?) 
-- Mein Geburtstag ist am 12. August. (My birthday is on August 12.)
-
-Arbeiten (Work) 
-- Wo arbeitest du? (Where do you work?) 
-- Ich arbeite in einer Schule. (I work in a school.)
-
-Ankommen (Arrive) 
-- Wann kommst du an? (When do you arrive?) 
-- Ich komme um 6 Uhr an. (I arrive at 6 o'clock.)
-
-Schenken (Gift) 
-- Was willst du zum Geburtstag schenken? (What do you want to gift for the birthday?) 
-- Ich möchte ein Buch schenken. (I want to gift a book.)
-
-Hobby (Hobby) 
-- Was ist dein Hobby? (What is your hobby?) 
-- Mein Hobby ist Fußball spielen. (My hobby is playing football.)
-
-Bus (Bus) 
-- Wann kommt der Bus? (When does the bus come?) 
-- Der Bus kommt in 5 Minuten. (The bus comes in 5 minutes.)
-
-Geschenk (Gift) 
-- Was hast du als Geschenk bekommen? (What did you get as a gift?) 
-- Ich habe ein Buch als Geschenk bekommen. (I got a book as a gift.)
-
-Kinder (Children) 
-- Wie viele Kinder hast du? (How many children do you have?) 
-- Ich habe zwei Kinder. (I have two children.)
-
-Museum (Museum) 
-- Wo ist das Museum? (Where is the museum?) 
-- Das Museum ist neben der Bibliothek. (The museum is next to the library.)
-
-Feiern (Celebrate) 
-- Was feierst du? (What are you celebrating?) 
-- Ich feiere meinen Geburtstag. (I'm celebrating my birthday.)
-
-Restaurant (Restaurant) 
-- Wo ist das Restaurant? (Where is the restaurant?) 
-- Das Restaurant ist auf der nächsten Straße. (The restaurant is on the next street.)
-
-Fahrrad (Bicycle) 
-- Wo ist dein Fahrrad? (Where is your bicycle?) 
-- Mein Fahrrad ist in der Garage. (My bicycle is in the garage.)
-
-Schmutzig (Dirty) 
-- Ist dein Auto schmutzig? (Is your car dirty?) 
-- Ja, mein Auto ist schmutzig. (Yes, my car is dirty.)
-
-Job (Job) 
-- Hast du einen Job? (Do you have a job?) 
-- Ja, ich habe einen Job. (Yes, I have a job.)
-
-Fahren (Drive) 
-- Kannst du Auto fahren? (Can you drive a car?) 
-- Ja, ich kann Auto fahren. (Yes, I can drive a car.)
-
-Waschen (Wash) 
-- Kannst du die Kleidung waschen? (Can you wash the clothes?) 
-- Ja, ich kann die Kleidung waschen. (Yes, I can wash the clothes.)
-
-Arbeit (Work) 
-- Wo ist deine Arbeit? (Where is your work?) 
-- Meine Arbeit ist in der Stadt. (My work is in the city.)
-
-Kopieren (Copy) 
-- Kannst du dieses Dokument kopieren? (Can you copy this document?) 
-- Ja, ich kann dieses Dokument kopieren. (Yes, I can copy this document.)
-
-Hochzeit (Wedding) 
-- Wann ist deine Hochzeit? (When is your wedding?) 
-- Meine Hochzeit ist im Juni. (My wedding is in June.)
-
-Machen (Do) 
-- Was machst du? (What are you doing?) 
-- Ich mache meine Hausaufgaben. (I'm doing my homework.)
-
-Gehen (Go) 
-- Wohin gehst du? (Where are you going?) 
-- Ich gehe zum Supermarkt. (I'm going to the supermarket.)
-
-Januar (January) 
-- Wann hast du Geburtstag? (When is your birthday?) 
-- Ich habe im Januar Geburtstag. (My birthday is in January.)
-
-Leben (Live) 
-- Wo lebst du? (Where do you live?) 
-- Ich lebe in Berlin. (I live in Berlin.)
-
-Zug (Train) 
-- Wann fährt der Zug ab? (When does the train leave?) 
-- Der Zug fährt um 7 Uhr ab. (The train leaves at 7 o'clock.)
-
-Geburtstagsparty (Birthday party) 
-- Wann ist deine Geburtstagsparty? (When is your birthday party?) 
-- Meine Geburtstagsparty ist am Samstag. (My birthday party is on Saturday.)
-
-Wohnen (Live) 
-- Wo wohnst du? (Where do you live?) 
-- Ich wohne in München. (I live in Munich.)
-
-U-Bahn (Subway) 
-- Wo ist die nächste U-Bahn Station? (Where is the nearest subway station?) 
-- Die nächste U-Bahn Station ist um die Ecke. (The nearest subway station is around the corner.)
-
-Grillfest (Barbecue party) 
-- Wann ist das Grillfest? (When is the barbecue party?) 
-- Das Grillfest ist am Sonntag. (The barbecue party is on Sunday.)
-
-Fahrkarte (Ticket) 
-- Wo kann ich eine Fahrkarte kaufen? (Where can I buy a ticket?) 
-- Du kannst eine Fahrkarte am Automaten kaufen. (You can buy a ticket at the machine.)
-
-Kaufen (Buy) 
-- Was willst du kaufen? (What do you want to buy?) 
-- Ich will ein neues Auto kaufen. (I want to buy a new car.)
-
-Juli (July) 
-- Wann hast du Urlaub? (When do you have vacation?) 
-- Ich habe im Juli Urlaub. (I have vacation in July.)
-
-Führerschein (Driving license) 
-- Hast du einen Führerschein? (Do you have a driving license?) 
-- Ja, ich habe einen Führerschein. (Yes, I have a driving license.)
-
-Kiosk (Kiosk) 
-- Wo ist der nächste Kiosk? (Where is the nearest kiosk?) 
-- Der nächste Kiosk ist auf der anderen Straßenseite. (The nearest kiosk is on the other side of the street.)
-
-Pizza (Pizza) 
-- Magst du Pizza? (Do you like pizza?) 
-- Ja, ich mag Pizza. (Yes, I like pizza.)
-
-Warten (Wait) 
-- Kannst du auf mich warten? (Can you wait for me?) 
-- Ja, ich kann auf dich warten. (Yes, I can wait for you.)
-
-Autowerkstatt (Car repair shop) 
-- Wo ist die nächste Autowerkstatt? (Where is the nearest car repair shop?) 
-- Die nächste Autowerkstatt ist drei Blocks entfernt. (The nearest car repair shop is three blocks away.)
-
-Familie (Family) 
-- Wie viele Personen sind in deiner Familie? (How many people are in your family?) 
-- Es gibt vier Personen in meiner Familie. (There are four people in my family.)
-
-Dürfen (May) 
-- Darf ich hier rauchen? (May I smoke here?) 
-- Nein, du darfst hier nicht rauchen. (No, you may not smoke here.)
-
-Kaputt (Broken) 
-- Ist dein Auto kaputt? (Is your car broken?) 
-- Ja, mein Auto ist kaputt. (Yes, my car is broken.)
-
-Können (Can) 
-- Kannst du schwimmen? (Can you swim?) 
-- Ja, ich kann schwimmen. (Yes, I can swim.)
-
-Rauchen (Smoke) 
-- Darf ich hier rauchen? (Can I smoke here?) 
-- Nein, du darfst hier nicht rauchen. (No, you can't smoke here.)
-
-Reparieren (Repair) 
-- Kannst du das Auto reparieren? (Can you repair the car?) 
-- Ja, ich kann das Auto reparieren. (Yes, I can repair the car.)
-
-Getränke (Drinks) 
-- Was sind deine Lieblingsgetränke? (What are your favorite drinks?) 
-- Meine Lieblingsgetränke sind Kaffee und Tee. (My favorite drinks are coffee and tea.)
-
-Hotel (Hotel) 
-- Wo ist das Hotel? (Where is the hotel?) 
-- Das Hotel ist neben dem Park. (The hotel is next to the park.)
-
-Kleider (Clothes) 
-- Wo sind deine Kleider? (Where are your clothes?) 
-- Meine Kleider sind im Schrank. (My clothes are in the closet.)
-
-Brauchen (Need) 
-- Was brauchst du? (What do you need?) 
-- Ich brauche ein neues Buch. (I need a new book.)
-
-Oper (Opera) 
-- Magst du die Oper? (Do you like the opera?) 
-- Ja, ich mag die Oper. (Yes, I like the opera.)
-
-Mittagessen (Lunch) 
-- Was gibt es zum Mittagessen? (What's for lunch?) 
-- Zum Mittagessen gibt es Hühnchen und Reis. (There's chicken and rice for lunch.)
-
-Chef (Boss) 
-- Wie ist dein Chef? (What is your boss like?) 
-- Mein Chef ist sehr nett. (My boss is very nice.)
-
-Doppelzimmer (Double room) 
-- Haben Sie ein Doppelzimmer frei? (Do you have a double room available?) 
-- Ja, wir haben ein Doppelzimmer frei. (Yes, we have a double room available.)
-
-Flughafen (Airport) 
-- Wo ist der Flughafen? (Where is the airport?) 
-- Der Flughafen ist zehn Kilometer entfernt. (The airport is ten kilometers away.)
-
-Einkaufen (Shopping) 
-- Gehst du gerne einkaufen? (Do you like shopping?) 
-- Ja, ich gehe gerne einkaufen. (Yes, I like shopping.)
-
-Terrasse (Terrace) 
-- Hat das Haus eine Terrasse? (Does the house have a terrace?) 
-- Ja, das Haus hat eine Terrasse. (Yes, the house has a terrace.)
-
-Lieblingsmonat (Favorite month) 
-- Was ist dein Lieblingsmonat? (What is your favorite month?) 
-- Mein Lieblingsmonat ist Mai. (My favorite month is May.)
-
-Auto (Car) 
-- Hast du ein Auto? (Do you have a car?) 
-- Ja, ich habe ein Auto. (Yes, I have a car.)
-
-Bestellen (Order) 
-- Was möchtest du bestellen? (What would you like to order?) 
-- Ich möchte eine Pizza bestellen. (I'd like to order a pizza.)
-
-Sommer (Summer) 
-- Magst du den Sommer? (Do you like summer?) 
-- Ja, ich mag den Sommer. (Yes, I like summer.)
-
-Fahren (Drive) 
-- Kannst du Auto fahren? (Can you drive a car?) 
-- Ja, ich kann Auto fahren. (Yes, I can drive a car.)
-
-Günstig (Cheap) 
-- Ist das Hotel günstig? (Is the hotel cheap?) 
-- Ja, das Hotel ist günstig. (Yes, the hotel is cheap.)
-
-Wandern (Hiking) 
-- Gehst du gerne wandern? (Do you like hiking?) 
-- Ja, ich gehe gerne wandern. (Yes, I like hiking.)
-
-Mieten (Rent) 
-- Kann ich ein Auto mieten? (Can I rent a car?) 
-- Ja, du kannst ein Auto mieten. (Yes, you can rent a car.)
-
-Mittagspause (Lunch break) 
-- Wann ist deine Mittagspause? (When is your lunch break?) 
-- Meine Mittagspause ist um 12 Uhr. (My lunch break is at 12 o'clock.)
-
-Wetter (Weather) 
-- Wie ist das Wetter heute? (What's the weather like today?) 
-- Das Wetter ist heute schön. (The weather is nice today.)
-
-Kommen (Come) 
-- Wann kommst du? (When are you coming?) 
-- Ich komme um 6 Uhr. (I'm coming at 6 o'clock.)
-
-Kamera (Camera) 
-- Hast du eine Kamera? (Do you have a camera?) 
-- Ja, ich habe eine Kamera. (Yes, I have a camera.)
-
-Liegen (Lie) 
-- Wo liegt das Buch? (Where is the book?) 
-- Das Buch liegt auf dem Tisch. (The book is on the table.)
-
-Kaufen (Buy) 
-- Was willst du kaufen? (What do you want to buy?) 
-- Ich will ein neues Hemd kaufen. (I want to buy a new shirt.)
-
-Helfen (Help) 
-- Kannst du mir helfen? (Can you help me?) 
-- Ja, ich kann dir helfen. (Yes, I can help you.)
-
-Zeitung (Newspaper) 
-- Liest du die Zeitung? (Do you read the newspaper?) 
-- Ja, ich lese die Zeitung. (Yes, I read the newspaper.)
-
-Stadtplan (City map) 
-- Brauchst du einen Stadtplan? (Do you need a city map?) 
-- Ja, ich brauche einen Stadtplan. (Yes, I need a city map.)
-
-Geld (Money) 
-- Hast du Geld? (Do you have money?) 
-- Ja, ich habe Geld. (Yes, I have money.)
-
-Krankenschwester (Nurse) 
-- Bist du eine Krankenschwester? (Are you a nurse?) 
-- Nein, ich bin keine Krankenschwester. (No, I am not a nurse.)
-
-Husten (Cough) 
-- Hast du Husten? (Do you have a cough?) 
-- Ja, ich habe Husten. (Yes, I have a cough.)
-
-Tür (Door) 
-- Wo ist die Tür? (Where is the door?) 
-- Die Tür ist dort drüben. (The door is over there.)
-
-Geld verdienen (Earn money) 
-- Wie verdienst du Geld? (How do you earn money?) 
-- Ich verdiene Geld als Lehrer. (I earn money as a teacher.)
-
-Kopfschmerzen (Headache) 
-- Hast du Kopfschmerzen? (Do you have a headache?) 
-- Ja, ich habe Kopfschmerzen. (Yes, I have a headache.)
-
-Arbeiten (Work) 
-- Wo arbeitest du? (Where do you work?) 
-- Ich arbeite im Krankenhaus. (I work in the hospital.)
-
-Aufstehen (Get up) 
-- Wann stehst du auf? (When do you get up?) 
-- Ich stehe um 7 Uhr auf. (I get up at 7 o'clock.)
-
-Krank (Sick) 
-- Bist du krank? (Are you sick?) 
-- Ja, ich bin krank. (Yes, I am sick.)
-
-Bibliothek (Library) 
-- Wo ist die Bibliothek? (Where is the library?) 
-- Die Bibliothek ist neben der Schule. (The library is next to the school.)
-
-Gesund (Healthy) 
-- Fühlst du dich gesund? (Do you feel healthy?) 
-- Ja, ich fühle mich gesund. (Yes, I feel healthy.)
-
-Deutschkurs (German course) 
-- Machst du einen Deutschkurs? (Are you taking a German course?) 
-- Ja, ich mache einen Deutschkurs. (Yes, I'm taking a German course.)
-
-Winter (Winter) 
-- Magst du den Winter? (Do you like winter?) 
-- Ja, ich mag den Winter. (Yes, I like winter.)
-
-Arzt (Doctor) 
-- Bist du ein Arzt? (Are you a doctor?) 
-- Nein, ich bin kein Arzt. (No, I am not a doctor.)
-
-Hausaufgaben (Homework) 
-- Hast du deine Hausaufgaben gemacht? (Have you done your homework?) 
-- Ja, ich habe meine Hausaufgaben gemacht. (Yes, I have done my homework.)
-
-Doktor (Doctor) 
-- Bist du ein Doktor? (Are you a doctor?) 
-- Nein, ich bin kein Doktor. (No, I am not a doctor.)
-
-Jacke (Jacket) 
-- Wo ist deine Jacke? (Where is your jacket?) 
-- Meine Jacke ist im Schrank. (My jacket is in the closet.)
+**Beruf** _(Job)_
+- `Was ist dein Beruf?` _(What is your job?)_
+- `Ich bin Lehrer.` _(I'm a teacher.)_
+
+**Termin** _(Appointment)_
+- `Haben Sie einen Termin?` _(Do you have an appointment?)_
+- `Ja, ich habe einen Termin um 3 Uhr.` _(Yes, I have an appointment at 3 o'clock.)_
+
+**Arzt** _(Doctor)_
+- `Wo ist der Arzt?` _(Where is the doctor?)_
+- `Der Arzt ist im Krankenhaus.` _(The doctor is in the hospital.)_
+
+**Apotheke** _(Pharmacy)_
+- `Wo ist die nächste Apotheke?` _(Where is the nearest pharmacy?)_
+- `Die nächste Apotheke ist um die Ecke.` _(The nearest pharmacy is around the corner.)_
+
+**Super** _(Great)_
+- `Wie geht es dir?` _(How are you?)_
+- `Mir geht es super.` _(I'm great.)_
+
+**Praktikum** _(Internship)_
+- `Hast du ein Praktikum gemacht?` _(Did you do an internship?)_
+- `Ja, ich habe ein Praktikum bei einer Zeitung gemacht.` _(Yes, I did an internship at a newspaper.)_
+
+**Post** _(Post/Mail)_
+- `Hast du die Post schon abgeholt?` _(Did you already pick up the mail?)_
+- `Ja, ich habe sie gerade abgeholt.` _(Yes, I just picked it up.)_
+
+**Schmecken** _(Taste)_
+- `Wie schmeckt das Essen?` _(How does the food taste?)_
+- `Das Essen schmeckt gut.` _(The food tastes good.)_
+
+**Deutschkurs** _(German course)_
+- `Hast du einen Deutschkurs besucht?` _(Have you attended a German course?)_
+- `Ja, ich habe einen Deutschkurs besucht.` _(Yes, I have attended a German course.)_
+
+**Parkplatz** _(Parking spot)_
+- `Wo ist ein Parkplatz?` _(Where is a parking spot?)_
+- `Es gibt einen Parkplatz vor dem Gebäude.` _(There is a parking spot in front of the building.)_
+
+**Langweilig** _(Boring)_
+- `Ist der Film langweilig?` _(Is the movie boring?)_
+- `Nein, der Film ist nicht langweilig.` _(No, the movie is not boring.)_
+
+**Ausbildung** _(Training)_
+- `Hast du eine Ausbildung?` _(Do you have a training?)_
+- `Ja, ich habe eine Ausbildung als Koch.` _(Yes, I have training as a cook.)_
+
+**Abfahren** _(Depart)_
+- `Wann fährt der Zug ab?` _(When does the train depart?)_
+- `Der Zug fährt um 10 Uhr ab.` _(The train departs at 10 o'clock.)_
+
+**Geburtstag** _(Birthday)_
+- `Wann ist dein Geburtstag?` _(When is your birthday?)_
+- `Mein Geburtstag ist am 12. August.` _(My birthday is on August 12.)_
+
+**Arbeiten** _(Work)_
+- `Wo arbeitest du?` _(Where do you work?)_
+- `Ich arbeite in einer Schule.` _(I work in a school.)_
+
+**Ankommen** _(Arrive)_
+- `Wann kommst du an?` _(When do you arrive?)_
+- `Ich komme um 6 Uhr an.` _(I arrive at 6 o'clock.)_
+
+**Schenken** _(Gift)_
+- `Was willst du zum Geburtstag schenken?` _(What do you want to gift for the birthday?)_
+- `Ich möchte ein Buch schenken.` _(I want to gift a book.)_
+
+**Hobby** _(Hobby)_
+- `Was ist dein Hobby?` _(What is your hobby?)_
+- `Mein Hobby ist Fußball spielen.` _(My hobby is playing football.)_
+
+**Bus** _(Bus)_
+- `Wann kommt der Bus?` _(When does the bus come?)_
+- `Der Bus kommt in 5 Minuten.` _(The bus comes in 5 minutes.)_
+
+**Geschenk** _(Gift)_
+- `Was hast du als Geschenk bekommen?` _(What did you get as a gift?)_
+- `Ich habe ein Buch als Geschenk bekommen.` _(I got a book as a gift.)_
+
+**Kinder** _(Children)_
+- `Wie viele Kinder hast du?` _(How many children do you have?)_
+- `Ich habe zwei Kinder.` _(I have two children.)_
+
+**Museum** _(Museum)_
+- `Wo ist das Museum?` _(Where is the museum?)_
+- `Das Museum ist neben der Bibliothek.` _(The museum is next to the library.)_
+
+**Feiern** _(Celebrate)_
+- `Was feierst du?` _(What are you celebrating?)_
+- `Ich feiere meinen Geburtstag.` _(I'm celebrating my birthday.)_
+
+**Restaurant** _(Restaurant)_
+- `Wo ist das Restaurant?` _(Where is the restaurant?)_
+- `Das Restaurant ist auf der nächsten Straße.` _(The restaurant is on the next street.)_
+
+**Fahrrad** _(Bicycle)_
+- `Wo ist dein Fahrrad?` _(Where is your bicycle?)_
+- `Mein Fahrrad ist in der Garage.` _(My bicycle is in the garage.)_
+
+**Schmutzig** _(Dirty)_
+- `Ist dein Auto schmutzig?` _(Is your car dirty?)_
+- `Ja, mein Auto ist schmutzig.` _(Yes, my car is dirty.)_
+
+**Job** _(Job)_
+- `Hast du einen Job?` _(Do you have a job?)_
+- `Ja, ich habe einen Job.` _(Yes, I have a job.)_
+
+**Fahren** _(Drive)_
+- `Kannst du Auto fahren?` _(Can you drive a car?)_
+- `Ja, ich kann Auto fahren.` _(Yes, I can drive a car.)_
+
+**Waschen** _(Wash)_
+- `Kannst du die Kleidung waschen?` _(Can you wash the clothes?)_
+- `Ja, ich kann die Kleidung waschen.` _(Yes, I can wash the clothes.)_
+
+**Arbeit** _(Work)_
+- `Wo ist deine Arbeit?` _(Where is your work?)_
+- `Meine Arbeit ist in der Stadt.` _(My work is in the city.)_
+
+**Kopieren** _(Copy)_
+- `Kannst du dieses Dokument kopieren?` _(Can you copy this document?)_
+- `Ja, ich kann dieses Dokument kopieren.` _(Yes, I can copy this document.)_
+
+**Hochzeit** _(Wedding)_
+- `Wann ist deine Hochzeit?` _(When is your wedding?)_
+- `Meine Hochzeit ist im Juni.` _(My wedding is in June.)_
+
+**Machen** _(Do)_
+- `Was machst du?` _(What are you doing?)_
+- `Ich mache meine Hausaufgaben.` _(I'm doing my homework.)_
+
+**Gehen** _(Go)_
+- `Wohin gehst du?` _(Where are you going?)_
+- `Ich gehe zum Supermarkt.` _(I'm going to the supermarket.)_
+
+**Januar** _(January)_
+- `Wann hast du Geburtstag?` _(When is your birthday?)_
+- `Ich habe im Januar Geburtstag.` _(My birthday is in January.)_
+
+**Leben** _(Live)_
+- `Wo lebst du?` _(Where do you live?)_
+- `Ich lebe in Berlin.` _(I live in Berlin.)_
+
+**Zug** _(Train)_
+- `Wann fährt der Zug ab?` _(When does the train leave?)_
+- `Der Zug fährt um 7 Uhr ab.` _(The train leaves at 7 o'clock.)_
+
+**Geburtstagsparty** _(Birthday party)_
+- `Wann ist deine Geburtstagsparty?` _(When is your birthday party?)_
+- `Meine Geburtstagsparty ist am Samstag.` _(My birthday party is on Saturday.)_
+
+**Wohnen** _(Live)_
+- `Wo wohnst du?` _(Where do you live?)_
+- `Ich wohne in München.` _(I live in Munich.)_
+
+**U-B`ahn** _(Subway)_
+- `Wo ist die nächste U-B`ahn Station?` _(Where is the nearest subway station?)_
+- `Die nächste U-B`ahn Station ist um die Ecke.` _(The nearest subway station is around the corner.)_
+
+**Grillfest** _(Barbecue party)_
+- `Wann ist das Grillfest?` _(When is the barbecue party?)_
+- `Das Grillfest ist am Sonntag.` _(The barbecue party is on Sunday.)_
+
+**Fahrkarte** _(Ticket)_
+- `Wo kann ich eine Fahrkarte kaufen?` _(Where can I buy a ticket?)_
+- `Du kannst eine Fahrkarte am Automaten kaufen.` _(You can buy a ticket at the machine.)_
+
+**Kaufen** _(Buy)_
+- `Was willst du kaufen?` _(What do you want to buy?)_
+- `Ich will ein neues Auto kaufen.` _(I want to buy a new car.)_
+
+**Juli** _(July)_
+- `Wann hast du Urlaub?` _(When do you have vacation?)_
+- `Ich habe im Juli Urlaub.` _(I have vacation in July.)_
+
+**Führerschein** _(Driving license)_
+- `Hast du einen Führerschein?` _(Do you have a driving license?)_
+- `Ja, ich habe einen Führerschein.` _(Yes, I have a driving license.)_
+
+**Kiosk** _(Kiosk)_
+- `Wo ist der nächste Kiosk?` _(Where is the nearest kiosk?)_
+- `Der nächste Kiosk ist auf der anderen Straßenseite.` _(The nearest kiosk is on the other side of the street.)_
+
+**Pizza** _(Pizza)_
+- `Magst du Pizza?` _(Do you like pizza?)_
+- `Ja, ich mag Pizza.` _(Yes, I like pizza.)_
+
+**Warten** _(Wait)_
+- `Kannst du auf mich warten?` _(Can you wait for me?)_
+- `Ja, ich kann auf dich warten.` _(Yes, I can wait for you.)_
+
+**Autowerkstatt** _(Car repair shop)_
+- `Wo ist die nächste Autowerkstatt?` _(Where is the nearest car repair shop?)_
+- `Die nächste Autowerkstatt ist drei Blocks entfernt.` _(The nearest car repair shop is three blocks away.)_
+
+**Familie** _(Family)_
+- `Wie viele Personen sind in deiner Familie?` _(How many people are in your family?)_
+- `Es gibt vier Personen in meiner Familie.` _(There are four people in my family.)_
+
+**Dürfen** _(May)_
+- `Darf ich hier rauchen?` _(May I smoke here?)_
+- `Nein, du darfst hier nicht rauchen.` _(No, you may not smoke here.)_
+
+**Kaputt** _(Broken)_
+- `Ist dein Auto kaputt?` _(Is your car broken?)_
+- `Ja, mein Auto ist kaputt.` _(Yes, my car is broken.)_
+
+**Können** _(Can)_
+- `Kannst du schwimmen?` _(Can you swim?)_
+- `Ja, ich kann schwimmen.` _(Yes, I can swim.)_
+
+**Rauchen** _(Smoke)_
+- `Darf ich hier rauchen?` _(Can I smoke here?)_
+- `Nein, du darfst hier nicht rauchen.` _(No, you can't smoke here.)_
+
+**Reparieren** _(Repair)_
+- `Kannst du das Auto reparieren?` _(Can you repair the car?)_
+- `Ja, ich kann das Auto reparieren.` _(Yes, I can repair the car.)_
+
+**Getränke** _(Drinks)_
+- `Was sind deine Lieblingsgetränke?` _(What are your favorite drinks?)_
+- `Meine Lieblingsgetränke sind Kaffee und Tee.` _(My favorite drinks are coffee and tea.)_
+
+**Hotel** _(Hotel)_
+- `Wo ist das Hotel?` _(Where is the hotel?)_
+- `Das Hotel ist neben dem Park.` _(The hotel is next to the park.)_
+
+**Kleider** _(Clothes)_
+- `Wo sind deine Kleider?` _(Where are your clothes?)_
+- `Meine Kleider sind im Schrank.` _(My clothes are in the closet.)_
+
+**Brauchen** _(Need)_
+- `Was brauchst du?` _(What do you need?)_
+- `Ich brauche ein neues Buch.` _(I need a new book.)_
+
+**Oper** _(Opera)_
+- `Magst du die Oper?` _(Do you like the opera?)_
+- `Ja, ich mag die Oper.` _(Yes, I like the opera.)_
+
+**Mittagessen** _(Lunch)_
+- `Was gibt es zum Mittagessen?` _(What's for lunch?)_
+- `Zum Mittagessen gibt es Hühnchen und Reis.` _(There's chicken and rice for lunch.)_
+
+**Chef** _(Boss)_
+- `Wie ist dein Chef?` _(What is your boss like?)_
+- `Mein Chef ist sehr nett.` _(My boss is very nice.)_
+
+**Doppelzimmer** _(Double room)_
+- `Haben Sie ein Doppelzimmer frei?` _(Do you have a double room available?)_
+- `Ja, wir haben ein Doppelzimmer frei.` _(Yes, we have a double room available.)_
+
+**Flughafen** _(Airport)_
+- `Wo ist der Flughafen?` _(Where is the airport?)_
+- `Der Flughafen ist zehn Kilometer entfernt.` _(The airport is ten kilometers away.)_
+
+**Einkaufen** _(Shopping)_
+- `Gehst du gerne einkaufen?` _(Do you like shopping?)_
+- `Ja, ich gehe gerne einkaufen.` _(Yes, I like shopping.)_
+
+**Terrasse** _(Terrace)_
+- `Hat das Haus eine Terrasse?` _(Does the house have a terrace?)_
+- `Ja, das Haus hat eine Terrasse.` _(Yes, the house has a terrace.)_
+
+**Lieblingsmonat** _(Favorite month)_
+- `Was ist dein Lieblingsmonat?` _(What is your favorite month?)_
+- `Mein Lieblingsmonat ist Mai.` _(My favorite month is May.)_
+
+**Auto** _(Car)_
+- `Hast du ein Auto?` _(Do you have a car?)_
+- `Ja, ich habe ein Auto.` _(Yes, I have a car.)_
+
+**Bestellen** _(Order)_
+- `Was möchtest du bestellen?` _(What would you like to order?)_
+- `Ich möchte eine Pizza bestellen.` _(I'd like to order a pizza.)_
+
+**Sommer** _(Summer)_
+- `Magst du den Sommer?` _(Do you like summer?)_
+- `Ja, ich mag den Sommer.` _(Yes, I like summer.)_
+
+**Fahren** _(Drive)_
+- `Kannst du Auto fahren?` _(Can you drive a car?)_
+- `Ja, ich kann Auto fahren.` _(Yes, I can drive a car.)_
+
+**Günstig** _(Cheap)_
+- `Ist das Hotel günstig?` _(Is the hotel cheap?)_
+- `Ja, das Hotel ist günstig.` _(Yes, the hotel is cheap.)_
+
+**Wandern** _(Hiking)_
+- `Gehst du gerne wandern?` _(Do you like hiking?)_
+- `Ja, ich gehe gerne wandern.` _(Yes, I like hiking.)_
+
+**Mieten** _(Rent)_
+- `Kann ich ein Auto mieten?` _(Can I rent a car?)_
+- `Ja, du kannst ein Auto mieten.` _(Yes, you can rent a car.)_
+
+**Mittagspause** _(Lunch break)_
+- `Wann ist deine Mittagspause?` _(When is your lunch break?)_
+- `Meine Mittagspause ist um 12 Uhr.` _(My lunch break is at 12 o'clock.)_
+
+**Wetter** _(Weather)_
+- `Wie ist das Wetter heute?` _(What's the weather like today?)_
+- `Das Wetter ist heute schön.` _(The weather is nice today.)_
+
+**Kommen** _(Come)_
+- `Wann kommst du?` _(When are you coming?)_
+- `Ich komme um 6 Uhr.` _(I'm coming at 6 o'clock.)_
+
+**Kamera** _(Camera)_
+- `Hast du eine Kamera?` _(Do you have a camera?)_
+- `Ja, ich habe eine Kamera.` _(Yes, I have a camera.)_
+
+**Liegen** _(Lie)_
+- `Wo liegt das Buch?` _(Where is the book?)_
+- `Das Buch liegt auf dem Tisch.` _(The book is on the table.)_
+
+**Kaufen** _(Buy)_
+- `Was willst du kaufen?` _(What do you want to buy?)_
+- `Ich will ein neues Hemd kaufen.` _(I want to buy a new shirt.)_
+
+**Helfen** _(Help)_
+- `Kannst du mir helfen?` _(Can you help me?)_
+- `Ja, ich kann dir helfen.` _(Yes, I can help you.)_
+
+**Zeitung** _(Newspaper)_
+- `Liest du die Zeitung?` _(Do you read the newspaper?)_
+- `Ja, ich lese die Zeitung.` _(Yes, I read the newspaper.)_
+
+**Stadtplan** _(City map)_
+- `Brauchst du einen Stadtplan?` _(Do you need a city map?)_
+- `Ja, ich brauche einen Stadtplan.` _(Yes, I need a city map.)_
+
+**Geld** _(Money)_
+- `Hast du Geld?` _(Do you have money?)_
+- `Ja, ich habe Geld.` _(Yes, I have money.)_
+
+**Krankenschwester** _(Nurse)_
+- `Bist du eine Krankenschwester?` _(Are you a nurse?)_
+- `Nein, ich bin keine Krankenschwester.` _(No, I am not a nurse.)_
+
+**Husten** _(Cough)_
+- `Hast du Husten?` _(Do you have a cough?)_
+- `Ja, ich habe Husten.` _(Yes, I have a cough.)_
+
+**Tür** _(Door)_
+- `Wo ist die Tür?` _(Where is the door?)_
+- `Die Tür ist dort drüben.` _(The door is over there.)_
+
+**Geld** _verdienen (Earn money)_
+- `Wie verdienst du Geld?` _(How do you earn money?)_
+- `Ich verdiene Geld als Lehrer.` _(I earn money as a teacher.)_
+
+**Kopfschmerzen** _(Headache)_
+- `Hast du Kopfschmerzen?` _(Do you have a headache?)_
+- `Ja, ich habe Kopfschmerzen.` _(Yes, I have a headache.)_
+
+**Arbeiten** _(Work)_
+- `Wo arbeitest du?` _(Where do you work?)_
+- `Ich arbeite im Krankenhaus.` _(I work in the hospital.)_
+
+**Aufstehen** _(Get up)_
+- `Wann stehst du auf?` _(When do you get up?)_
+- `Ich stehe um 7 Uhr auf.` _(I get up at 7 o'clock.)_
+
+**Krank** _(Sick)_
+- `Bist du krank?` _(Are you sick?)_
+- `Ja, ich bin krank.` _(Yes, I am sick.)_
+
+**Bibliothek** _(Library)_
+- `Wo ist die Bibliothek?` _(Where is the library?)_
+- `Die Bibliothek ist neben der Schule.` _(The library is next to the school.)_
+
+**Gesund** _(Healthy)_
+- `Fühlst du dich gesund?` _(Do you feel healthy?)_
+- `Ja, ich fühle mich gesund.` _(Yes, I feel healthy.)_
+
+**Deutschkurs** _(German course)_
+- `Machst du einen Deutschkurs?` _(Are you taking a German course?)_
+- `Ja, ich mache einen Deutschkurs.` _(Yes, I'm taking a German course.)_
+
+**Winter** _(Winter)_
+- `Magst du den Winter?` _(Do you like winter?)_
+- `Ja, ich mag den Winter.` _(Yes, I like winter.)_
+
+**Arzt** _(Doctor)_
+- `Bist du ein Arzt?` _(Are you a doctor?)_
+- `Nein, ich bin kein Arzt.` _(No, I am not a doctor.)_
+
+**Hausaufgaben** _(Homework)_
+- `Hast du deine Hausaufgaben gemacht?` _(Have you done your homework?)_
+- `Ja, ich habe meine Hausaufgaben gemacht.` _(Yes, I have done my homework.)_
+
+**Doktor** _(Doctor)_
+- `Bist du ein Doktor?` _(Are you a doctor?)_
+- `Nein, ich bin kein Doktor.` _(No, I am not a doctor.)_
+
+**Jacke** _(Jacket)_
+- `Wo ist deine Jacke?` _(Where is your jacket?)_
+- `Meine Jacke ist im Schrank.` _(My jacket is in the closet.)_
