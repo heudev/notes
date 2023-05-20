@@ -232,9 +232,9 @@
 
 <hr>
 
-**U-B`ahn** _(Subway)_
-- `Wo ist die nächste U-B`ahn Station?` _(Where is the nearest subway station?)_
-- `Die nächste U-B`ahn Station ist um die Ecke.` _(The nearest subway station is around the corner.)_
+**U-Bahn** _(Subway)_
+- `Wo ist die nächste U-Bahn Station?` _(Where is the nearest subway station?)_
+- `Die nächste U-Bahn Station ist um die Ecke.` _(The nearest subway station is around the corner.)_
 
 <hr>
 
