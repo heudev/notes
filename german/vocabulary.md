@@ -781,7 +781,7 @@
 - `Gibt es ein Extra-Angebot im Supermarkt?` _(Is there an extra offer in the supermarket?)_
 - `Ja, es gibt ein Extra-Angebot.` _(Yes, there is an extra offer.)_
 
-**die Kurs-Nr.` _(course number)_
+**die Kurs-Nr.** _(course number)_
 - `Kennst du die Kurs-Nr.?` _(Do you know the course number?)_
 - `Ja, ich kenne die Kurs-Nr.` _(Yes, I know the course number.)_
 
