@@ -658,7 +658,7 @@
 
 <hr>
 
-**E** _Mail (Email)_
+**E-Mail** _(Email)_
 - `Hast du meine E-Mail bekommen?` _(Did you get my email?)_
 - `Ja, ich habe deine E-Mail bekommen.` _(Yes, I got your email.)_
 
