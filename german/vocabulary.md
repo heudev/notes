@@ -1051,7 +1051,7 @@
 - `Fühlst du dich fremd in dieser Stadt?` _(Do you feel like a stranger in this city?)_
 - `Ja, ich fühle mich fremd in dieser Stadt.` _(Yes, I fee_ like a stranger in this city.)_
 
-**Ich bin auch fremd hier.` _(I am a stranger here, too.)__
+**Ich bin auch fremd hier.** _(I am a stranger here, too.)__
 - `Bist du auch fremd hier?` _(Are you a stranger here too?)_
 - `Ja, ich bin auch fremd hier.` _(Yes, I am a stranger here, too.)_
 
@@ -1078,7 +1078,6 @@
 **die Straßenbahn** _(tram / streetcar)_
 - `Fährst du mit der Straßenbahn?` _(Do you take the tram?)_
 - `Ja, ich fahre mit der Straßenbahn.` _(Yes, I take the tram.)_
-
 
 <hr>
 
