@@ -597,3 +597,129 @@
 - `Meine Jacke ist im Schrank.` _(My jacket is in the closet.)_
 
 <hr>
+
+**Husten** _(Cough)_
+- `Hast du Husten?` _(Do you have a cough?)_
+- `Ja, ich habe Husten.` _(Yes, I have a cough.)_
+
+<hr>
+
+**Rock** _(Skirt)_
+- `Wo ist dein Rock?` _(Where is your skirt?)_
+- `Mein Rock ist im Schrank.` _(My skirt is in the closet.)_
+
+<hr>
+
+**Fieber** _(Fever)_
+- `Hast du Fieber?` _(Do you have a fever?)_
+- `Nein, ich habe kein Fieber.` _(No, I do not have a fever.)_
+
+<hr>
+
+**Brille** _(Glasses)_
+- `Trägst du eine Brille?` _(Do you wear glasses?)_
+- `Ja, ich trage eine Brille.` _(Yes, I wear glasses.)_
+
+<hr>
+
+**Fitness** _Studio (Gym)_
+- `Gehst du ins Fitness-Studio?` _(Do you go to the gym?)_
+- `Ja, ich gehe ins Fitness-Studio.` _(Yes, I go to the gym.)_
+
+<hr>
+
+**Passen** _(Fit)_
+- `Passt dir das Hemd?` _(Does the shirt fit you?)_
+- `Ja, das Hemd passt mir.` _(Yes, the shirt fits me.)_
+
+<hr>
+
+**Arztpraxis** _(Doctor's office)_
+- `Wo ist die Arztpraxis?` _(Where is the doctor's office?)_
+- `Die Arztpraxis ist in der Stadtmitte.` _(The doctor's office is in the city center.)_
+
+<hr>
+
+**Gefallen** _(Like)_
+- `Gefällt dir das Buch?` _(Do you like the book?)_
+- `Ja, das Buch gefällt mir.` _(Yes, I like the book.)_
+
+<hr>
+
+**Schmerztablette** _(Painkiller)_
+- `Brauchst du eine Schmerztablette?` _(Do you need a painkiller?)_
+- `Ja, ich brauche eine Schmerztablette.` _(Yes, I need a painkiller.)_
+
+<hr>
+
+**Hemd** _(Shirt)_
+- `Wo ist dein Hemd?` _(Where is your shirt?)_
+- `Mein Hemd ist im Schrank.` _(My shirt is in the closet.)_
+
+<hr>
+
+**E** _Mail (Email)_
+- `Hast du meine E-Mail bekommen?` _(Did you get my email?)_
+- `Ja, ich habe deine E-Mail bekommen.` _(Yes, I got your email.)_
+
+<hr>
+
+**Schön** _(Beautiful)_
+- `Findest du das Bild schön?` _(Do you find the picture beautiful?)_
+- `Ja, ich finde das Bild schön.` _(Yes, I find the picture beautiful.)_
+
+<hr>
+
+**Trinken** _(Drink)_
+- `Was möchtest du trinken?` _(What would you like to drink?)_
+- `Ich möchte Wasser trinken.` _(I would like to drink water.)_
+
+<hr>
+
+**Teuer** _(Expensive)_
+- `Ist das Hemd teuer?` _(Is the shirt expensive?)_
+- `Ja, das Hemd ist teuer.` _(Yes, the shirt is expensive.)_
+
+<hr>
+
+**Spazieren** _gehen (Go for a walk)_
+- `Gehst du gerne spazieren?` _(Do you like to go for a walk?)_
+- `Ja, ich gehe gerne spazieren.` _(Yes, I like to go for a walk.)_
+
+<hr>
+
+**Klein** _(Small)_
+- `Ist das Haus klein?` _(Is the house small?)_
+- `Nein, das Haus ist nicht klein.` _(No, the house is not small.)_
+
+<hr>
+
+**Müde** _(Tired)_
+- `Bist du müde?` _(Are you tired?)_
+- `Ja, ich bin müde.` _(Yes, I am tired.)_
+
+<hr>
+
+**Pullover** _(Sweater)_
+- `Wo ist dein Pullover?` _(Where is your sweater?)_
+- `Mein Pullover ist im Schrank.` _(My sweater is in the closet.)_
+
+<hr>
+
+**Stress** _(Stress)_
+- `Hast du Stress?` _(Do you have stress?)_
+- `Ja, ich habe Stress.` _(Yes, I have stress.)_
+
+<hr>
+
+**Kaufhaus** _(Department store)_
+- `Wo ist das Kaufhaus?` _(Where is the department store?)_
+- `Das Kaufhaus ist in der Stadtmitte.` _(The department store is in the city center.)_
+
+<hr>
+
+**Finden** _(Find)_ 
+- `Kannst du deine Brille finden?` _(Can you find your glasses?)_
+- `Ja, ich kann meine Brille finden.` _(Yes, I can find my glasses.)_
+
+<hr>
