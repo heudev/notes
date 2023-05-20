@@ -726,7 +726,6 @@
 
 # Book's Vocabulary
 
-
 <hr>
 
 **die Wiederholung** _(repetition)_
@@ -781,6 +780,8 @@
 - `Gibt es ein Extra-Angebot im Supermarkt?` _(Is there an extra offer in the supermarket?)_
 - `Ja, es gibt ein Extra-Angebot.` _(Yes, there is an extra offer.)_
 
+<hr>
+
 **die Kurs-Nr.** _(course number)_
 - `Kennst du die Kurs-Nr.?` _(Do you know the course number?)_
 - `Ja, ich kenne die Kurs-Nr.` _(Yes, I know the course number.)_
@@ -791,7 +792,9 @@
 - `Ist das Kleid Mode?` _(Is the dress in style?)_
 - `Ja, das Kleid ist Mode.` _(Yes, the dress is in style.)_
 
-**Was heißt das?` _(What does that mean?)__
+<hr>
+
+**Was heißt das?** _(What does that mean?)_
 - `Weißt du, was das heißt?` _(Do you know what that means?)_
 - `Ja, ich weiß, was das heißt.` _(Yes, I know what that means.)_
 
@@ -883,15 +886,17 @@
 
 **betreten** _(to enter)_
 - `Darf ich das Zimmer betreten?` _(May I enter the room?)_
-- `Ja, du darfst das Zimmer betreten.` _(Yes, you may enter th_ room.)_
+- `Ja, du darfst das Zimmer betreten.` _(Yes, you may enter the room.)_
 
-**Alles im grünen Bereich.` _(Everything is as it should be.)__
+<hr>
+
+**Alles** _(Everything is as it should be.)_
 - `Ist alles im grünen Bereich?` _(Is everything as it should be?)_
 - `Ja, alles ist im grünen Bereich.` _(Yes, everything is as it should be.)_
 
 <hr>
 
-**die** _(Auto-)Werkstatt** _(garage)_
+**die Auto-Werkstatt** _(garage)_
 - `Wo ist die Werkstatt?` _(Where is the garage?)_
 - `Die Werkstatt ist um die Ecke.` _(The garage is around the corner.)_
 
@@ -1051,7 +1056,9 @@
 - `Fühlst du dich fremd in dieser Stadt?` _(Do you feel like a stranger in this city?)_
 - `Ja, ich fühle mich fremd in dieser Stadt.` _(Yes, I fee_ like a stranger in this city.)_
 
-**Ich bin auch fremd hier.** _(I am a stranger here, too.)__
+<hr>
+
+**hier** _(here)_
 - `Bist du auch fremd hier?` _(Are you a stranger here too?)_
 - `Ja, ich bin auch fremd hier.` _(Yes, I am a stranger here, too.)_
 
@@ -1303,7 +1310,7 @@
 
 <hr>
 
-****_(aus)_leihen** _(to borrow)_ 
+**aus leihen** _(to borrow)_ 
 - `Leihst du das Buch aus der Bibliothek?` _(Are you borrowing the book from the library?)_
 - `Ja, ich leihe das Buch aus der Bibliothek.` _(Yes, I am borrowing the book from the library.)_
 
