@@ -1078,3 +1078,478 @@
 **die Straßenbahn** _(tram / streetcar)_
 - `Fährst du mit der Straßenbahn?` _(Do you take the tram?)_
 - `Ja, ich fahre mit der Straßenbahn.` _(Yes, I take the tram.)_
+
+
+<hr>
+
+**das Taxi** _(taxi)_ 
+- `Nimmst du das Taxi zum Flughafen?` _(Are you taking a taxi to the airport?)_
+- `Ja, ich nehme das Taxi zum Flughafen.` _(Yes, I am taking a taxi to the airport.)_
+
+<hr>
+
+**die U-Bahn** _(underground/subway)_ 
+- `Fährst du mit der U-Bahn zur Arbeit?` _(Are you going to work by subway?)_
+- `Ja, ich fahre mit der U-Bahn zur Arbeit.` _(Yes, I am going to work by subway.)_
+
+<hr>
+
+**wohin** _(where to)_ 
+- `Wohin gehst du?` _(Where are you going?)_
+- `Ich gehe zur Arbeit.` _(I am going to work.)_
+
+<hr>
+
+**das Filmmuseum** _(film museum)_ 
+- `Besuchst du das Filmmuseum?` _(Are you visiting the film museum?)_
+- `Ja, ich besuche das Filmmuseum.` _(Yes, I am visiting the film museum.)_
+
+<hr>
+
+**zu Fuß** _(on foot)_ 
+- `Gehst du zu Fuß zur Schule?` _(Do you go to school on foot?)_
+- `Ja, ich gehe zu Fuß zur Schule.` _(Yes, I go to school on foot.)_
+
+<hr>
+
+**weit** _(far)_ 
+- `Ist die Schule weit weg?` _(Is the school far away?)_
+- `Nein, die Schule ist nicht weit weg.` _(No, the school is not far away.)_
+
+<hr>
+
+**der Netzplan** _(network map)_ 
+- `Hast du den Netzplan?` _(Do you have the network map?)_
+- `Ja, ich habe den Netzplan.` _(Yes, I have the network map.)_
+
+<hr>
+
+**der Hauptbahnhof** _(central station)_ 
+- `Bist du am Hauptbahnhof?` _(Are you at the central station?)_
+- `Ja, ich bin am Hauptbahnhof.` _(Yes, I am at the central station.)_
+
+<hr>
+
+**die Station** _(station)_ 
+- `An welcher Station steigst du aus?` _(At which station are you getting off?)_
+- `Ich steige an der nächsten Station aus.` _(I am getting off at the next station.)_
+
+<hr>
+
+**das Verkehrsmittel** _(means of transport)_ 
+- `Welches Verkehrsmittel bevorzugst du?` _(Which means of transport do you prefer?)_
+- `Ich bevorzuge das Fahrrad.` _(I prefer the bicycle.)_
+
+<hr>
+
+**persönlich** _(personal)_ 
+- `Ist das deine persönliche Meinung?` _(Is that your personal opinion?)_
+- `Ja, das ist meine persönliche Meinung.` _(Yes, that is my personal opinion.)_
+
+<hr>
+
+**der Kiosk** _(kiosk)_ 
+- `Kaufst du Zeitschriften am Kiosk?` _(Do you buy magazines at the kiosk?)_
+- `Ja, ich kaufe Zeitschriften am Kiosk.` _(Yes, I buy magazines at the kiosk.)_
+
+<hr>
+
+**die Buchhandlung** _(bookstore)_ 
+- `Gehst du zur Buchhandlung?` _(Are you going to the bookstore?)_
+- `Ja, ich gehe zur Buchhandlung.` _(Yes, I am going to the bookstore.)_
+
+<hr>
+
+**die Bank** _(bank)_ 
+- `Arbeitest du bei der Bank?` _(Do you work at the bank?)_
+- `Ja, ich arbeite bei der Bank.` _(Yes, I work at the bank.)_
+
+<hr>
+
+**die Bücherei** _(library)_ 
+- `Besuchst du die Bücherei?` _(Are you visiting the library?)_
+- `Ja, ich besuche die Bücherei.` _(Yes, I am visiting the library.)_
+
+<hr>
+
+**der Bäcker** _(baker)_ 
+- `Arbeitet dein Vater als Bäcker?` _(Does your father work as a baker?)_
+- `Ja, mein Vater arbeitet als Bäcker.` _(Yes, my father works as a baker.)_
+
+<hr>
+
+**die Bäckerei** _(bakery)_ 
+- `Kaufst du Brot in der Bäckerei?` _(Do you buy bread at the bakery?)_
+- `Ja, ich kaufe Brot in der Bäckerei.` _(Yes, I buy bread at the bakery.)_
+
+<hr>
+
+**der Lkw** _(lorry/truck)_ 
+- `Fährst du einen Lkw?` _(Do you drive a truck?)_
+- `Ja, ich fahre einen Lkw.` _(Yes, I drive a truck.)_
+
+<hr>
+
+**an** _(at)_ 
+- `Bist du an der Bushaltestelle?` _(Are you at the bus stop?)_
+- `Ja, ich bin an der Bushaltestelle.` _(Yes, I am at the bus stop.)_
+
+<hr>
+
+**sitzen** _(to sit)_ 
+- `Sitzt du auf dem Stuhl?` _(Are you sitting on the chair?)_
+- `Ja, ich sitze auf dem Stuhl.` _(Yes, I am sitting on the chair.)_
+
+<hr>
+
+**über** _(above)_ 
+- `Ist das Bild über dem Sofa?` _(Is the picture above the sofa?)_
+- `Ja, das Bild ist über dem Sofa.` _(Yes, the picture is above the sofa.)_
+
+<hr>
+
+**hinter** _(behind)_ 
+- `Steht der Stuhl hinter dem Tisch?` _(Is the chair behind the table?)_
+- `Ja, der Stuhl steht hinter dem Tisch.` _(Yes, the chair is behind the table.)_
+
+<hr>
+
+**zwischen** _(between)_ 
+- `Steht das Haus zwischen den Bäumen?` _(Is the house between the trees?)_
+- `Ja, das Haus steht zwischen den Bäumen.` _(Yes, the house is between the trees.)_
+
+<hr>
+
+**die Fußgängerzone** _(pedestrian precinct)_ 
+- `Gehst du durch die Fußgängerzone?` _(Are you walking through the pedestrian precinct?)_
+- `Ja, ich gehe durch die Fußgängerzone.` _(Yes, I am walking through the pedestrian precinct.)_
+
+<hr>
+
+**holen** _(to get)_ 
+- `Holst du das Brot?` _(Are you getting the bread?)_
+- `Ja, ich hole das Brot.` _(Yes, I am getting the bread.)_
+
+<hr>
+
+**das Geschäft** _(shop/store)_ 
+- `Gehst du ins Geschäft?` _(Are you going into the store?)_
+- `Ja, ich gehe ins Geschäft.` _(Yes, I am going into the store.)_
+
+<hr>
+
+**der Konferenzraum** _(conference room)_ 
+- `Bist du im Konferenzraum?` _(Are you in the conference room?)_
+- `Ja, ich bin im Konferenzraum.` _(Yes, I am in the conference room.)_
+
+<hr>
+
+**die Konferenz** _(conference)_ 
+- `Nimmst du an der Konferenz teil?` _(Are you attending the conference?)_
+- `Ja, ich nehme an der Konferenz teil.` _(Yes, I am attending the conference.)_
+
+<hr>
+
+**das Sekretariat** _(secretary's office)_ 
+- `Arbeitest du im Sekretariat?` _(Do you work in the secretary's office?)_
+- `Ja, ich arbeite im Sekretariat.` _(Yes, I work in the secretary's office.)_
+
+<hr>
+
+**das Fußballspiel** _(football/soccer match)_ 
+- `Schaust du das Fußballspiel?` _(Are you watching the football match?)_
+- `Ja, ich schaue das Fußballspiel.` _(Yes, I am watching the football match.)_
+
+<hr>
+
+**der Kundentermin** _(customer meeting)_ 
+- `Hast du einen Kundentermin?` _(Do you have a customer meeting?)_
+- `Ja, ich habe einen Kundentermin.` _(Yes, I have a customer meeting.)_
+
+<hr>
+
+**der Zahnarzt / die Zahnärztin** _(dentist)_ 
+- `Gehst du zum Zahnarzt?` _(Are you going to the dentist?)_
+- `Ja, ich gehe zum Zahnarzt.` _(Yes, I am going to the dentist.)_
+
+<hr>
+
+**das Fußballstadion** _(football/soccer stadium)_ 
+- `Gehst du ins Fußballstadion?` _(Are you going to the football stadium?)_
+- `Ja, ich gehe ins Fußballstadion.` _(Yes, I am going to the football stadium.)_
+
+<hr>
+
+**das Stadion** _(stadium)_ 
+- `Bist du im Stadion?` _(Are you in the stadium?)_
+- `Ja, ich bin im Stadion.` _(Yes, I am in the stadium.)_
+
+<hr>
+
+**der Filmabend** _(film evening/movie night)_ 
+- `Nimmst du am Filmabend teil?` _(Are you participating in movie night?)_
+- `Ja, ich nehme am Filmabend teil.` _(Yes, I am participating in movie night.)_
+
+<hr>
+
+**das Vorstellungsgespräch** _(interview)_ 
+- `Hast du ein Vorstellungsgespräch?` _(Do you have an interview?)_
+- `Ja, ich habe ein Vorstellungsgespräch.` _(Yes, I have an interview.)_
+
+<hr>
+
+**kopieren** _(to copy)_ 
+- `Kopierst du das Dokument?` _(Are you copying the document?)_
+- `Ja, ich kopiere das Dokument.` _(Yes, I am copying the document.)_
+
+<hr>
+
+****_(aus)_leihen** _(to borrow)_ 
+- `Leihst du das Buch aus der Bibliothek?` _(Are you borrowing the book from the library?)_
+- `Ja, ich leihe das Buch aus der Bibliothek.` _(Yes, I am borrowing the book from the library.)_
+
+<hr>
+
+**vorne** _(ahead)_ 
+- `Ist das Restaurant vorne?` _(Is the restaurant ahead?)_
+- `Ja, das Restaurant ist vorne.` _(Yes, the restaurant is ahead.)_
+
+<hr>
+
+**hinten** _(behind)_ 
+- `Ist das Gebäude hinten?` _(Is the building behind?)_
+- `Ja, das Gebäude ist hinten.` _(Yes, the building is behind.)_
+
+<hr>
+
+**drüben** _(over)_ 
+- `Ist das Kino drüben?` _(Is the cinema over there?)_
+- `Ja, das Kino ist drüben.` _(Yes, the cinema is over there.)_
+
+<hr>
+
+**die Ecke** _(corner)_ 
+- `Ist das Café an der Ecke?` _(Is the cafe at the corner?)_
+- `Ja, das Café ist an der Ecke.` _(Yes, the cafe is at the corner.)_
+
+<hr>
+
+**der Copyshop** _(copy shop)_ 
+- `Gehst du zum Copyshop?` _(Are you going to the copy shop?)_
+- `Ja, ich gehe zum Copyshop.` _(Yes, I am going to the copy shop.)_
+
+<hr>
+
+**weg** _(away)_ 
+- `Ist der Bus schon weg?` _(Has the bus already left?)_
+- `Ja, der Bus ist schon weg.` _(Yes, the bus has already left.)_
+
+<hr>
+
+**der Krankenhausclown** _(hospital clown)_ 
+- `Siehst du den Krankenhausclown?` _(Do you see the hospital clown?)_
+- `Ja, ich sehe den Krankenhausclown.` _(Yes, I see the hospital clown.)_
+
+<hr>
+
+**der Clown** _(clown)_ 
+- `Hast du Angst vor dem Clown?` _(Are you scared of the clown?)_
+- `Nein, ich habe keine Angst vor dem Clown.` _(No, I am not scared of the clown.)_
+
+<hr>
+
+**der Tänzer / die Tänzerin** _(dancer)_ 
+- `Bist du ein Tänzer?` _(Are you a dancer?)_
+- `Ja, ich bin ein Tänzer.` _(Yes, I am a dancer.)_
+
+<hr>
+
+**die Touristeninformation** _(tourist information)_ 
+- `Brauchst du die Touristeninformation?` _(Do you need the tourist information?)_
+- `Ja, ich brauche die Touristeninformation.` _(Yes, I need the tourist information.)_
+
+<hr>
+
+**die Touristengruppe** _(group of tourists)_ 
+- `Bist du in der Touristengruppe?` _(Are you in the group of tourists?)_
+- `Ja, ich bin in der Touristengruppe.` _(Yes, I am in the group of tourists.)_
+
+<hr>
+
+**die Durchsage** _(announcement)_ 
+- `Hast du die Durchsage gehört?` _(Did you hear the announcement?)_
+- `Ja, ich habe die Durchsage gehört.` _(Yes, I heard the announcement.)_
+
+<hr>
+
+**abfahren** _(to depart)_ 
+- `Wann fährt der Zug ab?` _(When does the train depart?)_
+- `Der Zug fährt in 10 Minuten ab.` _(The train departs in 10 minutes.)_
+
+<hr>
+
+**das Gleis** _(platform)_ 
+- `An welchem Gleis hält der Zug?` _(At which platform does the train stop?)_
+- `Der Zug hält am Gleis 3.` _(The train stops at platform 3.)_
+
+<hr>
+
+**einsteigen** _(to get on)_ 
+- `Wo steigst du ein?` _(Where do you get on?)_
+- `Ich steige am Hauptbahnhof ein.` _(I get on at the main station.)_
+
+<hr>
+
+**die Verspätung** _(delay)_ 
+- `Hat der Zug Verspätung?` _(Is the train delayed?)_
+- `Ja, der Zug hat 15 Minuten Verspätung.` _(Yes, the train is delayed by 15 minutes.)_
+
+<hr>
+
+**umsteigen** _(to change)_ 
+- `Muss ich in München umsteigen?` _(Do I have to change in Munich?)_
+- `Ja, in München musst du umsteigen.` _(Yes, you have to change in Munich.)_
+
+<hr>
+
+**aussteigen** _(to get off)_ 
+- `Wo steigst du aus?` _(Where do you get off?)_
+- `Ich steige in Berlin aus.` _(I get off in Berlin.)_
+
+<hr>
+
+**der Schalter** _(counter)_ 
+- `Wo ist der Schalter?` _(Where is the counter?)_
+- `Der Schalter ist dort drüben.` _(The counter is over there.)_
+
+<hr>
+
+**direkt** _(direct)_ 
+- `Ist das ein direkter Flug?` _(Is this a direct flight?)_
+- `Ja, das ist ein direkter Flug.` _(Yes, this is a direct flight.)_
+
+<hr>
+
+**der Bahnsteig** _(platform)_ 
+- `Wo ist der Bahnsteig?` _(Where is the platform?)_
+- `Der Bahnsteig ist da unten.` _(The platform is down there.)_
+
+<hr>
+
+**gegenüber** _(across)_ 
+- `Wo ist die Apotheke?` _(Where is the pharmacy?)_
+- `Die Apotheke ist gegenüber dem Bahnhof.` _(The pharmacy is across from the station.)_
+
+<hr>
+
+**achten auf** _(to pay attention to)_ 
+- `Achten Sie auf die Verkehrsschilder?` _(Do you pay attention to the traffic signs?)_
+- `Ja, ich achte immer auf die Verkehrsschilder.` _(Yes, I always pay attention to the traffic signs.)_
+
+<hr>
+
+**der Anschluss** _(connection)_ 
+- `Habe ich einen Anschluss in Frankfurt?` _(Do I have a connection in Frankfurt?)_
+- `Ja, Sie haben einen Anschluss in Frankfurt.` _(Yes, you have a connection in Frankfurt.)_
+
+<hr>
+
+**einfach** _(single / one-way)_ 
+- `Ist das ein einfaches Ticket?` _(Is this a one-way ticket?)_
+- `Ja, das ist ein einfaches Ticket.` _(Yes, this is a one-way ticket.)_
+
+<hr>
+
+**hin und zurück** _(there and back)_ 
+- `Ist das ein Hin- und Rückfahrtticket?` _(Is this a round-trip ticket?)_
+- `Ja, das ist ein Hin- und Rückfahrtticket.` _(Yes, this is a round-trip ticket.)_
+
+<hr>
+
+**der Fahrplan** _(timetable)_ 
+- `Wo kann ich den Fahrplan sehen?` _(Where can I see the timetable?)_
+- `Sie können den Fahrplan online oder am Bahnhof sehen.` _(You can see the timetable online or at the station.)_
+
+<hr>
+
+**das Produkt** _(product)_ 
+- `Welches Produkt möchtest du kaufen?` _(Which product do you want to buy?)_
+- `Ich möchte das neue iPhone kaufen.` _(I want to buy the new iPhone.)_
+
+<hr>
+
+**der Normalpreis** _(regular price)_ 
+- `Was ist der Normalpreis für dieses Produkt?` _(What is the regular price for this product?)_
+- `Der Normalpreis für dieses Produkt ist 200 Euro.` _(The regular price for this product is 200 euros.)_
+
+<hr>
+
+**ab** _(departing)_ 
+- `Wann fährt der Zug ab?` _(When is the train departing?)_
+- `Der Zug fährt um 15 Uhr ab.` _(The train is departing at 15 o'clock.)_
+
+<hr>
+
+**an** _(arriving)_ 
+- `Wann kommt der Zug an?` _(When is the train arriving?)_
+- `Der Zug kommt um 17 Uhr an.` _(The train is arriving at 17 o'clock.)_
+
+<hr>
+
+**der ICE** _(Intercity Express)_ 
+- `Wann fährt der nächste ICE nach Berlin?` _(When does the next ICE leave for Berlin?)_
+- `Der nächste ICE nach Berlin fährt um 10 Uhr.` _(The next ICE to Berlin leaves at 10 o'clock.)_
+
+<hr>
+
+**die Buchung** _(booking)_ 
+- `Wie kann ich eine Buchung vornehmen?` _(How can I make a booking?)_
+- `Sie können eine Buchung online oder telefonisch vornehmen.` _(You can make a booking online or by phone.)_
+
+<hr>
+
+**West-** _(west)_ 
+- `Lebst du im Westen Deutschlands?` _(Do you live in the west of Germany?)_
+- `Ja, ich lebe im Westen Deutschlands.` _(Yes, I live in the west of Germany.)_
+
+<hr>
+
+**die Maus** _(mouse)_ 
+- `Hast du eine Maus für deinen Computer?` _(Do you have a mouse for your computer?)_
+- `Ja, ich habe eine drahtlose Maus für meinen Computer.` _(Yes, I have a wireless mouse for my computer.)_
+
+<hr>
+
+**die Orientierung** _(orientation)_ 
+- `Wie gut ist deine Orientierung in der Stadt?` _(How good is your orientation in the city?)_
+- `Meine Orientierung in der Stadt ist ziemlich gut.` _(My orientation in the city is pretty good.)_
+
+<hr>
+
+**Lernziele** _(learning goals)_ 
+- `Was sind deine Lernziele für diesen Kurs?` _(What are your learning goals for this course?)_
+- `Meine Lernziele für diesen Kurs sind, meine Sprachkenntnisse zu verbessern und neue Vokabeln zu lernen.` _(My learning goals for this course are to improve my language skills and learn new vocabulary.)_
+
+<hr>
+
+**die Wegbeschreibung** _(directions)_ 
+- `Könnten Sie mir bitte eine Wegbeschreibung geben?` _(Could you please give me directions?)_
+- `Ja, natürlich. Sie müssen geradeaus gehen, dann die erste Straße rechts nehmen.` _(Yes, of course. You have to go straight, then take the first street on the right.)_
+
+<hr>
+
+**die Ortsangabe** _(location)_ 
+- `Können Sie mir bitte eine Ortsangabe für das Restaurant geben?` _(Can you please give me a location for the restaurant?)_
+- `Das Restaurant befindet sich gegenüber dem Park.` _(The restaurant is located across from the park.)_
+
+<hr>
+
+**formulieren** _(to formulate)_ 
+- `Können Sie das bitte anders formulieren?` _(Can you please formulate that differently?)_
+- `Ja, sicher. Ich meinte, ob Sie Zeit für ein Treffen haben.` _(Yes, sure. I meant to ask if you have time for a meeting.)_
+
+<hr>
+
+**an geben** _(to give)_ 
+- `Können Sie mir bitte das Salz geben?` _(Can you please give me the salt?)_
+- `Ja, hier ist das Salz.` _(Yes, here is the salt.)_
