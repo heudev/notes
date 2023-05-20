@@ -723,3 +723,358 @@
 - `Ja, ich kann meine Brille finden.` _(Yes, I can find my glasses.)_
 
 <hr>
+
+# Book's Vocabulary
+
+
+<hr>
+
+**die Wiederholung** _(repetition)_
+- `Müssen wir die Wiederholung im Fernsehen anschauen?` _(Do we have to watch the repetition on TV?)_
+- `Nein, wir müssen die Wiederholung nicht anschauen.` _(No, we do not have to watch the repetition.)_
+
+<hr>
+
+**der Pfeil** _(arrow)_
+- `Siehst du den Pfeil auf dem Bildschirm?` _(Do you see the arrow on the screen?)_
+- `Ja, ich sehe den Pfeil.` _(Yes, I see the arrow.)_
+
+<hr>
+
+**der Tennisklub** _(tennis club)_
+- `Spielst du im Tennisklub?` _(Do you play in the tennis club?)_
+- `Ja, ich spiele im Tennisklub.` _(Yes, I play in the tennis club.)_
+
+<hr>
+
+**das Gitarrespielen** _(playing the guitar)_
+- `Magst du das Gitarrespielen?` _(Do you like playing the guitar?)_
+- `Ja, ich mag das Gitarrespielen.` _(Yes, I like playing the guitar.)_
+
+<hr>
+
+**bestimmt** _(certain)_
+- `Bist du dir bestimmt?` _(Are you certain?)_
+- `Ja, ich bin bestimmt.` _(Yes, I am certain.)_
+
+<hr>
+
+**der Gesundheitstag** _(health day)_
+- `Wann ist der Gesundheitstag?` _(When is the health day?)_
+- `Der Gesundheitstag ist am Freitag.` _(The health day is on Friday.)_
+
+<hr>
+
+**das Schlafproblem** _(sleep problem)_
+- `Hast du ein Schlafproblem?` _(Do you have a sleep problem?)_
+- `Nein, ich habe kein Schlafproblem.` _(No, I do not have a sleep problem.)_
+
+<hr>
+
+**der Stadtwald** _(city forest)_
+- `Gehst du oft in den Stadtwald?` _(Do you often go to the city forest?)_
+- `Ja, ich gehe oft in den Stadtwald.` _(Yes, I often go to the city forest.)_
+
+<hr>
+
+**das Extra-Angebot** _(extra offer)_
+- `Gibt es ein Extra-Angebot im Supermarkt?` _(Is there an extra offer in the supermarket?)_
+- `Ja, es gibt ein Extra-Angebot.` _(Yes, there is an extra offer.)_
+
+**die Kurs-Nr.` _(course number)_
+- `Kennst du die Kurs-Nr.?` _(Do you know the course number?)_
+- `Ja, ich kenne die Kurs-Nr.` _(Yes, I know the course number.)_
+
+<hr>
+
+**Mode sein** _(to be in style)_
+- `Ist das Kleid Mode?` _(Is the dress in style?)_
+- `Ja, das Kleid ist Mode.` _(Yes, the dress is in style.)_
+
+**Was heißt das?` _(What does that mean?)__
+- `Weißt du, was das heißt?` _(Do you know what that means?)_
+- `Ja, ich weiß, was das heißt.` _(Yes, I know what that means.)_
+
+<hr>
+
+**der Brieftext** _(letter text)_
+- `Hast du den Brieftext gelesen?` _(Did you read the letter text?)_
+- `Ja, ich habe den Brieftext gelesen.` _(Yes, I read the letter text.)_
+
+<hr>
+
+**überlegen** _(to think)_
+- `Musst du darüber überlegen?` _(Do you have to think about it?)_
+- `Ja, ich muss darüber überlegen.` _(Yes, I have to think about it.)_
+
+<hr>
+
+**das Fußballtraining** _(football / soccer training)_
+- `Gehst du zum Fußballtraining?` _(Are you going to football training?)_
+- `Ja, ich gehe zum Fußballtraining.` _(Yes, I'm going to football training.)_
+
+<hr>
+
+**der Terminplan** _(schedule)_
+- `Hast du deinen Terminplan?` _(Do you have your schedule?)_
+- `Ja, ich habe meinen Terminplan.` _(Yes, I have my schedule.)_
+
+<hr>
+
+**Bis gleich** _(See you in a minute)_
+- `Siehst du mich gleich?` _(Will you see me in a minute?)_
+- `Ja, bis gleich.` _(Yes, see you in a minute.)_
+
+<hr>
+
+**die Sicherheitsvorschrift** _(safety regulation)_
+- `Kennst du die Sicherheitsvorschrift?` _(Do you know the safety regulation?)_
+- `Ja, ich kenne die Sicherheitsvorschrift.` _(Yes, I know the safety regulation.)_
+
+<hr>
+
+**der Haarschutz** _(hair protection)_
+- `Hast du deinen Haarschutz?` _(Do you have your hair protection?)_
+- `Ja, ich habe meinen Haarschutz.` _(Yes, I have my hair protection.)_
+
+<hr>
+
+**die Baustelle** _(construction site)_
+- `Arbeitest du auf der Baustelle?` _(Do you work at the construction site?)_
+- `Ja, ich arbeite auf der Baustelle.` _(Yes, I work at the construction site.)_
+
+<hr>
+
+**der Kindergarten** _(kindergarten)_
+- `Geht dein Kind in den Kindergarten?` _(Does your child go to kindergarten?)_
+- `Ja, mein Kind geht in den Kindergarten.` _(Yes, my child goes to kindergarten.)_
+
+<hr>
+
+**der Notausgang** _(emergency exit)_
+- `Wo ist der Notausgang?` _(Where is the emergency exit?)_
+- `Der Notausgang ist dort drüben.` _(The emergency exit is over there.)_
+
+<hr>
+
+**der Feuerlöscher** _(fire extinguisher)_
+- `Wo ist der Feuerlöscher?` _(Where is the fire extinguisher?)_
+- `Der Feuerlöscher ist in der Küche.` _(The fire extinguisher is in the kitchen.)_
+
+<hr>
+
+**die Schutzbrille** _(safety goggles)_
+- `Trägst du deine Schutzbrille?` _(Are you wearing your safety goggles?)_
+- `Ja, ich trage meine Schutzbrille.` _(Yes, I'm wearing my safety goggles.)_
+
+<hr>
+
+**tragen** _(to wear)_
+- `Trägst du einen Hut?` _(Are you wearing a hat?)_
+- `Ja, ich trage einen Hut.` _(Yes, I'm wearing a hat.)_
+
+<hr>
+
+**das Notfalltelefon** _(emergency** _(tele)phone)_
+- `Wo ist das Notfalltelefon?` _(Where is the emergency phone?)_
+- `Das Notfalltelefon ist am Eingang.` _(The emergency phone is at the entrance.)_
+
+<hr>
+
+**betreten** _(to enter)_
+- `Darf ich das Zimmer betreten?` _(May I enter the room?)_
+- `Ja, du darfst das Zimmer betreten.` _(Yes, you may enter th_ room.)_
+
+**Alles im grünen Bereich.` _(Everything is as it should be.)__
+- `Ist alles im grünen Bereich?` _(Is everything as it should be?)_
+- `Ja, alles ist im grünen Bereich.` _(Yes, everything is as it should be.)_
+
+<hr>
+
+**die** _(Auto-)Werkstatt** _(garage)_
+- `Wo ist die Werkstatt?` _(Where is the garage?)_
+- `Die Werkstatt ist um die Ecke.` _(The garage is around the corner.)_
+
+<hr>
+
+**der Autoschlüssel** _(car key)_
+- `Hast du den Autoschlüssel?` _(Do you have the car key?)_
+- `Ja, ich habe den Autoschlüssel.` _(Yes, I have the car key.)_
+
+<hr>
+
+**die Apotheke** _(pharmacy)_
+- `Wo ist die nächste Apotheke?` _(Where is the nearest pharmacy?)_
+- `Die nächste Apotheke ist zwei Straßen weiter.` _(The nearest pharmacy is two streets away.)_
+
+<hr>
+
+**das Navi** _(GPS navigation system)_
+- `Hast du das Navi eingeschaltet?` _(Did you turn on the GPS?)_
+- `Ja, das Navi ist eingeschaltet.` _(Yes, the GPS is turned on.)_
+
+<hr>
+
+**die S-Bahn** _(suburban train)_
+- `Fährst du mit der S-Bahn?` _(Are you taking the suburban train?)_
+- `Ja, ich fahre mit der S-Bahn.` _(Yes, I am taking the suburban train.)_
+
+<hr>
+
+**die Autobahn** _(motorway / highway)_
+- `Fährst du auf der Autobahn?` _(Are you driving on the motorway?)_
+- `Ja, ich fahre auf der Autobahn.` _(Yes, I am driving on the motorway.)_
+
+<hr>
+
+**die Tankstelle** _(petrol / gas station)_
+- `Wo ist die nächste Tankstelle?` _(Where is the nearest petrol station?)_
+- `Die nächste Tankstelle ist drei Kilometer entfernt.` _(The nearest petrol station is three kilometers away.)_
+
+<hr>
+
+**die Brücke** _(bridge)_
+- `Gehen wir über die Brücke?` _(Are we going over the bridge?)_
+- `Ja, wir gehen über die Brücke.` _(Yes, we are going over the bridge.)_
+
+<hr>
+
+**die Ampel** _(traffic light)_
+- `Ist die Ampel rot?` _(Is the traffic light red?)_
+- `Ja, die Ampel ist rot.` _(Yes, the traffic light is red.)_
+
+<hr>
+
+**nach rechts** _(to the right)_
+- `Geht der Weg nach rechts?` _(Does the path go to the right?)_
+- `Ja, der Weg geht nach rechts.` _(Yes, the path goes to the right.)_
+
+<hr>
+
+**geradeaus** _(straight ahead)_
+- `Gehen wir geradeaus?` _(Are we going straight ahead?)_
+- `Ja, wir gehen geradeaus.` _(Yes, we are going straight ahead.)_
+
+<hr>
+
+**nach links** _(to the left)_
+- `Geht der Weg nach links?` _(Does the path go to the left?)_
+- `Ja, der Weg geht nach links.` _(Yes, the path goes to the left.)_
+
+<hr>
+
+**das Medikament** _(medicine)_
+- `Brauchst du ein Medikament?` _(Do you need medicine?)_
+- `Ja, ich brauche ein Medikament.` _(Yes, I need a medicine.)_
+
+<hr>
+
+**die Erkältung** _(cold)_
+- `Hast du eine Erkältung?` _(Do you have a cold?)_
+- `Ja, ich habe eine Erkältung.` _(Yes, I have a cold.)_
+
+<hr>
+
+**selbst** _(oneself)_
+- `Kannst du dich selbst versorgen?` _(Can you take care of yourself?)_
+- `Ja, ich kann mich selbst versorgen.` _(Yes, I can take care of myself.)_
+
+<hr>
+
+**zu machen** _(to close)_
+- `Kannst du das Fenster zumachen?` _(Can you close the window?)_
+- `Ja, ich kann das Fenster zumachen.` _(Yes, I can close the window.)_
+
+<hr>
+
+**ankommen** _(to arrive)_
+- `Wann kommst du an?` _(When will you arrive?)_
+- `Ich komme um fünf Uhr an.` _(I will arrive at five o'clock.)_
+
+<hr>
+
+**schnell** _(fast)_
+- `Kannst du schnell laufen?` _(Can you run fast?)_
+- `Ja, ich kann schnell laufen.` _(Yes, I can run fast.)_
+
+<hr>
+
+**bedeuten** _(to mean)_
+- `Was bedeutet das Wort?` _(What does the word mean?)_
+- `Das Wort bedeutet "Freund".` _(The word means "friend".)_
+
+<hr>
+
+**okay** _(okay)_
+- `Ist alles okay?` _(Is everything okay?)_
+- `Ja, alles ist okay.` _(Yes, everything is okay.)_
+
+<hr>
+
+**der Bahnhof** _(train station)_
+- `Wo ist der Bahnhof?` _(Where is the train station?)_
+- `Der Bahnhof ist in der Innenstadt.` _(The train station is in the city center.)_
+
+<hr>
+
+**der Fußballplatz** _(football / soccer field)_
+- `Wo ist der Fußballplatz?` _(Where is the soccer field?)_
+- `Der Fußballplatz ist im Park.` _(The soccer field is in the park.)_
+
+<hr>
+
+**der Platz** _(field)_
+- `Wo ist der Platz?` _(Where is the field?)_
+- `Der Platz ist neben der Schule.` _(The field is next to the school.)_
+
+<hr>
+
+**die Metzgerei** _(butcher’s shop)_
+- `Wo ist die Metzgerei?` _(Where is the butcher's shop?)_
+- `Die Metzgerei ist auf der Hauptstraße.` _(The butcher's shop is on Main Street.)_
+
+<hr>
+
+**die Post** _(post office)_
+- `Wo ist die Post?` _(Where is the post office?)_
+- `Die Post ist neben dem Supermarkt.` _(The post office is next to the supermarket.)_
+
+<hr>
+
+**der Kindergarten** _(kindergarten)_
+- `Wo ist der Kindergarten?` _(Where is the kindergarten?)_
+- `Der Kindergarten ist hinter der Kirche.` _(The kindergarten is behind the church.)_
+
+<hr>
+
+**fremd** _(to be a stranger)_
+- `Fühlst du dich fremd in dieser Stadt?` _(Do you feel like a stranger in this city?)_
+- `Ja, ich fühle mich fremd in dieser Stadt.` _(Yes, I fee_ like a stranger in this city.)_
+
+**Ich bin auch fremd hier.` _(I am a stranger here, too.)__
+- `Bist du auch fremd hier?` _(Are you a stranger here too?)_
+- `Ja, ich bin auch fremd hier.` _(Yes, I am a stranger here, too.)_
+
+<hr>
+
+**womit** _(with what)_
+- `Womit fährst du zur Arbeit?` _(With what do you go to work?)_
+- `Ich fahre mit dem Auto zur Arbeit.` _(I go to work by car.)_
+
+<hr>
+
+**fliegen** _(to fly)_
+- `Kannst du fliegen?` _(Can you fly?)_
+- `Nein, ich kann nicht fliegen.` _(No, I can't fly.)_
+
+<hr>
+
+**das Flugzeug** _(airplane)_
+- `Fliegst du mit dem Flugzeug?` _(Are you flying by airplane?)_
+- `Ja, ich fliege mit dem Flugzeug.` _(Yes, I am flying by airplane.)_
+
+<hr>
+
+**die Straßenbahn** _(tram / streetcar)_
+- `Fährst du mit der Straßenbahn?` _(Do you take the tram?)_
+- `Ja, ich fahre mit der Straßenbahn.` _(Yes, I take the tram.)_
