@@ -682,7 +682,7 @@
 
 <hr>
 
-**Spazieren** _gehen (Go for a walk)_
+**Spazieren gehen** _(Go for a walk)_
 - `Gehst du gerne spazieren?` _(Do you like to go for a walk?)_
 - `Ja, ich gehe gerne spazieren.` _(Yes, I like to go for a walk.)_
 
