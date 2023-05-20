@@ -1,7 +1,6 @@
 <style>
 body {
-  background-color: rgb(13,17,23);
-  color: white;
+  background-color: #f0f8ff;
 }
 </style>
 
