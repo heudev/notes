@@ -1,9 +1,3 @@
-<style>
-body {
-  background-color: #778899;
-}
-</style>
-
 **Beruf** _(Job)_
 - `Was ist dein Beruf?` _(What is your job?)_
 - `Ich bin Lehrer.` _(I'm a teacher.)_
