@@ -1803,7 +1803,7 @@
 
 <hr>
 
-**etwa** _(about** _(=approximately))_
+**etwa** _(approximately)_
 - `Wie weit ist es etwa zum Bahnhof?` _(About how far is it to the train station?)_
 - `Es ist etwa zehn Minuten zu Fuß.` _(It's about a ten minute walk.)_
 
