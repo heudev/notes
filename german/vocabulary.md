@@ -2349,7 +2349,7 @@
 
 <hr>
 
-**telefonisch** _(by** _(tele)phone)_
+**telefonisch** _(by phone)_
 - `Kann ich telefonisch bestellen?` _(Can I order by phone?)_
 - `Ja, Sie können telefonisch bestellen.` _(Yes, you can order by phone.)_
 
