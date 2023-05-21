@@ -2397,7 +2397,7 @@
 
 <hr>
 
-**der Sportschuh** _(trainer** _(BE) / sneaker** _(AE))_
+**der Sportschuh** _(trainer/sneaker)_
 - `Wo sind meine Sportschuhe?` _(Where are my trainers/sneakers?)_
 - `Deine Sportschuhe sind im Schrank.` _(Your trainers/sneakers are in the cupboard.)_
 
