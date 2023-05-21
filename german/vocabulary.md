@@ -2313,7 +2313,7 @@
 
 <hr>
 
-**lohnen** _(sich)** _(to be worth it)_
+**lohnen (sich)** _(to be worth it)_
 - `Lohnt es sich, das Museum zu besuchen?` _(Is it worth visiting the museum?)_
 - `Ja, es lohnt sich, das Museum zu besuchen.` _(Yes, it is worth visiting the museum.)_
 
