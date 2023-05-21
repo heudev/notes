@@ -1559,3 +1559,1385 @@
 **an geben** _(to give)_ 
 - `Können Sie mir bitte das Salz geben?` _(Can you please give me the salt?)_
 - `Ja, hier ist das Salz.` _(Yes, here is the salt.)_
+
+
+<hr>
+
+**Schreiben** _(writing)_
+- `Was schreibst du gerade?` _(What are you writing right now?)_
+- `Ich schreibe einen Bericht für die Arbeit.` _(I'm writing a report for work.)_
+
+<hr>
+
+**der Geschäftspartner** _(business partner)_
+- `Wie viele Geschäftspartner hast du?` _(How many business partners do you have?)_
+- `Ich habe drei Geschäftspartner.` _(I have three business partners.)_
+
+<hr>
+
+**Film** _(movie)_
+- `Welchen Film siehst du gerade?` _(Which movie are you watching right now?)_
+- `Ich sehe den Film "Inception".` _(I'm watching the movie "Inception.")_
+
+<hr>
+
+**der Verkehr** _(traffic)_
+- `Wie ist der Verkehr heute Morgen?` _(How's the traffic this morning?)_
+- `Der Verkehr ist heute Morgen ziemlich schlimm.` _(The traffic is pretty bad this morning.)_
+
+<hr>
+
+**Lied** _(song)_
+- `Welches Lied hörst du gerade?` _(What song are you listening to right now?)_
+- `Ich höre das Lied "Let It Be" von den Beatles.` _(I'm listening to the song "Let It Be" by The Beatles.)_
+
+<hr>
+
+**Entschuldigen Sie?** _(Excuse me?)_
+- `Entschuldigen Sie, wo ist die nächste U-Bahn-Station?` _(Excuse me, where is the next subway station?)_
+- `Die nächste U-Bahn-Station ist nur ein paar Blocks entfernt.` _(The next subway station is just a few blocks away.)_
+
+<hr>
+
+**noch mal** _(again)_
+- `Könnten Sie das bitte noch mal sagen?` _(Could you please say that again?)_
+- `Ja, natürlich. Ich sagte, dass wir um 10 Uhr anfangen.` _(Yes, of course. I said we start at 10 o'clock.)_
+
+<hr>
+
+**der Refrain** _(chorus)_
+- `Kannst du den Refrain dieses Liedes singen?` _(Can you sing the chorus of this song?)_
+- `Ja, ich kann den Refrain singen.` _(Yes, I can sing the chorus.)_
+
+<hr>
+
+**oben** _(up)_
+- `Kannst du das Bild etwas höher hängen?` _(Can you hang the picture a bit higher?)_
+- `Ja, ich kann das Bild etwas weiter oben hängen.` _(Yes, I can hang the picture a bit higher up.)_
+
+<hr>
+
+**unten** _(down)_
+- `Kannst du bitte das Buch von der unteren Ablage holen?` _(Can you please get the book from the bottom shelf?)_
+- `Ja, ich hole das Buch.` _(Yes, I'll get the book.)_
+
+<hr>
+
+**ARBEITSBUCH** _(workbook)_
+- `Hast du dein Arbeitsbuch dabei?` _(Do you have your workbook with you?)_
+- `Ja, ich habe es in meiner Tasche.` _(Yes, I have it in my bag.)_
+
+<hr>
+
+**mitgehen** _(to go with)_
+- `Willst du mit uns ins Kino gehen?` _(Do you want to go to the cinema with us?)_
+- `Ja, ich würde gerne mitgehen.` _(Yes, I'd love to go with you.)_
+
+<hr>
+
+**der Aufruf** _(call)_
+- `Haben Sie den Aufruf zur Konferenz erhalten?` _(Did you receive the call for the conference?)_
+- `Ja, ich habe den Aufruf erhalten.` _(Yes, I received the call.)_
+
+<hr>
+
+**die Richtung** _(direction)_
+- `In welcher Richtung ist der Bahnhof?` _(In which direction is the train station?)_
+- `Der Bahnhof ist in dieser Richtung.` _(The train station is in this direction.)_
+
+<hr>
+
+**der Abschnitt** _(section)_
+- `Welchen Abschnitt des Buches liest du gerade?` _(Which section of the book are you reading right now?)_
+- `Ich lese gerade den dritten Abschnitt.` _(I'm currently reading the third section.)_
+
+<hr>
+
+**die Zugnummer** _(train number)_
+- `Was ist die Zugnummer deines Zuges?` _(What is the train number of your train?)_
+- `Die Zugnummer ist 547.` _(The train number is 547.)_
+
+<hr>
+
+**die Fahrtzeit** _(travel time)_
+- `Wie lange ist die Fahrtzeit zum Flughafen?` _(How long is the travel time to the airport?)_
+- `Die Fahrtzeit zum Flughafen beträgt etwa 30 Minuten.` _(The travel time to the airport is about 30 minutes.)_
+
+<hr>
+
+**das Kinderessen** _(children's meal)_
+- `Was ist im Kinderessen enthalten?` _(What's included in the children's meal?)_
+- `Das Kinderessen enthält Chicken Nuggets, Pommes Frites und ein Getränk.` _(The children's meal includes chicken nuggets, french fries and a drink.)_
+
+<hr>
+
+**die Fahrplaninformation** _(timetable information)_
+- `Wo kann ich Fahrplaninformationen finden?` _(Where can I find timetable information?)_
+- `Sie können Fahrplaninformationen online oder am Bahnhof finden.` _(You can find timetable information online or at the train station.)_
+
+<hr>
+
+**das Bewerbungsgespräch** _(job interview)_
+- `Wie ist dein Bewerbungsgespräch verlaufen?` _(How did your job interview go?)_
+- `Es ist gut gelaufen, danke.` _(It went well, thank you.)_
+
+<hr>
+
+**der Ausstieg** _(getting off)_
+- `Wann ist der nächste Ausstieg?` _(When is the next stop?)_
+- `Der nächste Ausstieg ist in fünf Minuten.` _(The next stop is in five minutes.)_
+
+<hr>
+
+**der Ausgang** _(exit)_
+- `Wo ist der nächste Ausgang?` _(Where is the nearest exit?)_
+- `Der nächste Ausgang ist rechts von hier.` _(The nearest exit is on the right from here.)_
+
+<hr>
+
+**der Anhang** _(attachment)_
+- `Hast du den Anhang in der E-Mail gesehen?` _(Did you see the attachment in the email?)_
+- `Ja, ich habe den Anhang gesehen.` _(Yes, I saw the attachment.)_
+
+<hr>
+
+**Kundenservice** _(customer service)_
+- `Wie kann ich den Kundenservice kontaktieren?` _(How can I contact customer service?)_
+- `Sie können den Kundenservice per Telefon oder E-Mail kontaktieren.` _(You can contact customer service by phone or email.)_
+
+<hr>
+
+**die Tasche** _(bag)_
+- `Hast du meine Tasche gesehen?` _(Have you seen my bag?)_
+- `Ja, deine Tasche ist auf dem Stuhl.` _(Yes, your bag is on the chair.)_
+
+<hr>
+
+**die Plastiktüte** _(plastic bag)_
+- `Kannst du bitte eine Plastiktüte für mich holen?` _(Could you please get a plastic bag for me?)_
+- `Ja, ich hole eine Plastiktüte für dich.` _(Yes, I'll get a plastic bag for you.)_
+
+<hr>
+
+**die Rechnung** _(bill)_
+- `Könnte ich bitte die Rechnung haben?` _(Could I please have the bill?)_
+- `Ja, ich bringe Ihnen die Rechnung.` _(Yes, I'll bring you the bill.)_
+
+<hr>
+
+**reparieren** _(to repair)_
+- `Können Sie meinen Computer reparieren?` _(Can you repair my computer?)_
+- `Ja, ich kann Ihren Computer reparieren.` _(Yes, I can repair your computer.)_
+
+<hr>
+
+**sauer** _(mad)_
+- `Bist du sauer auf mich?` _(Are you mad at me?)_
+- `Nein, ich bin nicht sauer.` _(No, I'm not mad.)_
+
+<hr>
+
+**unfreundlich** _(unfriendly)_
+- `Warum bist du so unfreundlich?` _(Why are you so unfriendly?)_
+- `Entschuldigung, das war nicht meine Absicht.` _(I'm sorry, that was not my intention.)_
+
+<hr>
+
+**freundlich** _(friendly)_
+- `Sie ist immer sehr freundlich zu allen.` _(She is always very friendly to everyone.)_
+- `Ja, sie ist eine nette Person.` _(Yes, she's a nice person.)_
+
+<hr>
+
+**normal** _(normal)_
+- `Ist das normal?` _(Is that normal?)_
+- `Ja, das ist ganz normal.` _(Yes, that's perfectly normal.)_
+
+<hr>
+
+**das Mittagessen** _(lunch)_
+- `Was gibt es zum Mittagessen?` _(What's for lunch?)_
+- `Zum Mittagessen gibt es Pasta.` _(We're having pasta for lunch.)_
+
+<hr>
+
+**Kleider** _(clothes)_
+- `Wo kann ich meine Kleider aufhängen?` _(Where can I hang my clothes?)_
+- `Sie können Ihre Kleider im Schrank aufhängen.` _(You can hang your clothes in the closet.)_
+
+<hr>
+
+**verkaufen** _(to sell)_
+- `Wann verkaufen Sie Ihr Auto?` _(When are you selling your car?)_
+- `Ich plane, mein Auto nächsten Monat zu verkaufen.` _(I plan to sell my car next month.)_
+
+<hr>
+
+**sortieren** _(to sort)_
+- `Können Sie bitte diese Papiere sortieren?` _(Could you please sort these papers?)_
+- `Ja, ich kann diese Papiere sortieren.` _(Yes, I can sort these papers.)_
+
+<hr>
+
+**die Reparatur** _(repair)_
+- `Wie lange dauert die Reparatur?` _(How long will the repair take?)_
+- `Die Reparatur dauert ungefähr zwei Stunden.` _(The repair will take about two hours.)_
+
+<hr>
+
+**nähen** _(to sew)_
+- `Können Sie diesen Knopf nähen?` _(Can you sew this button?)_
+- `Ja, ich kann diesen Knopf nähen.` _(Yes, I can sew this button.)_
+
+<hr>
+
+**die Aussage** _(statement)_
+- `Ist das deine endgültige Aussage?` _(Is that your final statement?)_
+- `Ja, das ist meine endgültige Aussage.` _(Yes, that is my final statement.)_
+
+<hr>
+
+**duschen** _(to shower)_
+- `Wann möchtest du duschen?` _(When would you like to shower?)_
+- `Ich möchte am Morgen duschen.` _(I would like to shower in the morning.)_
+
+<hr>
+
+**etwa** _(about** _(=approximately))_
+- `Wie weit ist es etwa zum Bahnhof?` _(About how far is it to the train station?)_
+- `Es ist etwa zehn Minuten zu Fuß.` _(It's about a ten minute walk.)_
+
+<hr>
+
+**die Kamera** _(camera)_
+- `Ist das eine neue Kamera?` _(Is that a new camera?)_
+- `Ja, das ist meine neue Kamera.` _(Yes, this is my new camera.)_
+
+<hr>
+
+**nachsehen** _(to have a look)_
+- `Können Sie bitte nachsehen, ob ich meinen Schlüssel hier gelassen habe?` _(Could you please check if I left my key here?)_
+- `Ja, ich sehe gleich nach.` _(Yes, I'll check right away.)_
+
+<hr>
+
+**der Techniker** _(technician)_
+- `Wann kommt der Techniker?` _(When is the technician coming?)_
+- `Der Techniker sollte morgen kommen.` _(The technician should be coming tomorrow.)_
+
+<hr>
+
+**das Modell** _(model)_
+- `Welches Modell von Auto bevorzugen Sie?` _(Which model of car do you prefer?)_
+- `Ich bevorzuge das neueste Modell.` _(I prefer the latest model.)_
+
+<hr>
+
+**vorbeibringen** _(to bring over)_
+- `Können Sie das Buch morgen vorbeibringen?` _(Can you bring over the book tomorrow?)_
+- `Ja, ich kann das Buch morgen vorbeibringen.` _(Yes, I can bring the book over tomorrow.)_
+
+<hr>
+
+**die Garantie** _(warranty)_
+- `Gilt die Garantie noch für diesen Laptop?` _(Is the warranty still valid for this laptop?)_
+- `Ja, die Garantie ist noch für sechs Monate gültig.` _(Yes, the warranty is still valid for six more months.)_
+
+<hr>
+
+**zurückgeben** _(to give back)_
+- `Wann muss ich das Buch zurückgeben?` _(When do I have to return the book?)_
+- `Sie müssen das Buch nächste Woche zurückgeben.` _(You have to return the book next week.)_
+
+<hr>
+
+**der Assistent** _(assistant)_
+- `Wo ist der Assistent?` _(Where is the assistant?)_
+- `Der Assistent ist im Büro.` _(The assistant is in the office.)_
+
+<hr>
+
+**anmachen** _(to turn on)_
+- `Können Sie das Licht anmachen?` _(Can you turn on the light?)_
+- `Ja, ich mache das Licht an.` _(Yes, I'm turning on the light.)_
+
+<hr>
+
+**die Tür** _(door)_
+- `Ist die Tür geschlossen?` _(Is the door closed?)_
+- `Ja, die Tür ist geschlossen.` _(Yes, the door is closed.)_
+
+<hr>
+
+**zumachen** _(to close)_
+- `Bitte machen Sie das Fenster zu.` _(Please close the window.)_
+- `Ja, ich mache das Fenster zu.` _(Yes, I am closing the window.)_
+
+<hr>
+
+**das Fenster** _(window)_
+- `Ist das Fenster offen?` _(Is the window open?)_
+- `Ja, das Fenster ist offen.` _(Yes, the window is open.)_
+
+<hr>
+
+**aufmachen** _(to open)_
+- `Können Sie bitte das Fenster aufmachen?` _(Can you please open the window?)_
+- `Ja, ich mache das Fenster auf.` _(Yes, I'm opening the window.)_
+
+<hr>
+
+**das Papier** _(paper)_
+- `Haben wir genug Papier für den Drucker?` _(Do we have enough paper for the printer?)_
+- `Ja, wir haben genug Papier.` _(Yes, we have enough paper.)_
+
+<hr>
+
+**der Drucker** _(printer)_
+- `Funktioniert der Drucker?` _(Is the printer working?)_
+- `Ja, der Drucker funktioniert.` _(Yes, the printer is working.)_
+
+<hr>
+
+**das Licht** _(light)_
+- `Ist das Licht an?` _(Is the light on?)_
+- `Nein, das Licht ist aus.` _(No, the light is off.)_
+
+<hr>
+
+**höflich** _(polite)_
+- `War der Kellner höflich?` _(Was the waiter polite?)_
+- `Ja, der Kellner war sehr höflich.` _(Yes, the waiter was very polite.)_
+
+<hr>
+
+**die Bitte** _(request)_
+- `Kann ich eine Bitte haben?` _(May I have a request?)_
+- `Ja, was ist Ihre Bitte?` _(Yes, what is your request?)_`
+
+<hr>
+
+**empfehlen** _(to recommend)_
+- `Können Sie ein gutes Restaurant empfehlen?` _(Can you recommend a good restaurant?)_
+- `Ja, ich kann das Italienische Restaurant um die Ecke empfehlen.` _(Yes, I can recommend the Italian restaurant around the corner.)_
+
+<hr>
+
+**das Institut** _(institute)_
+- `Welches Institut empfehlen Sie für Wissenschaftsstudien?` _(Which institute do you recommend for science studies?)_
+- `Ich empfehle das Max-Planck-Institut.` _(I recommend the Max Planck Institute.)_
+
+<hr>
+
+**die Analytische Chemie** _(analytical chemistry)_
+- `Haben Sie Erfahrung in der Analytischen Chemie?` _(Do you have experience in analytical chemistry?)_
+- `Ja, ich habe Erfahrung in der Analytischen Chemie.` _(Yes, I have experience in analytical chemistry.)_
+
+<hr>
+
+**die Reisegruppe** _(travel group)_
+- `Gehören Sie zu der Reisegruppe?` _(Are you part of the travel group?)_
+- `Ja, ich gehöre zu der Reisegruppe.` _(Yes, I am part of the travel group.)_
+
+<hr>
+
+**der Flug** _(flight)_
+- `Ist Ihr Flug pünktlich?` _(Is your flight on time?)_
+- `Ja, mein Flug ist pünktlich.` _(Yes, my flight is on time.)_
+
+<hr>
+
+**servieren** _(to serve)_
+- `Können Sie das Essen jetzt servieren?` _(Can you serve the food now?)_
+- `Ja, ich serviere das Essen jetzt.` _(Yes, I am serving the food now.)_
+
+<hr>
+
+**etwas Kaltes** _(something cold)_
+- `Möchten Sie etwas Kaltes zu trinken?` _(Would you like something cold to drink?)_
+- `Ja, ich hätte gerne etwas Kaltes zu trinken.` _(Yes, I would like something cold to drink.)_
+
+<hr>
+
+**Wäre das möglich?** _(Would that be possible?)_
+- `Wäre es möglich, ein zusätzliches Handtuch zu bekommen?` _(Would it be possible to get an extra towel?)_
+- `Ja, das wäre möglich.` _(Yes, that would be possible.)_
+  
+  <hr>
+
+**beste Grüße** _(best regards)_
+- `Kann ich die E-Mail mit 'besten Grüßen' beenden?` _(Can I end the email with 'best regards'?)_
+- `Ja, das ist eine gebräuchliche Grußformel.` _(Yes, that's a common salutation.)_
+
+<hr>
+
+**der Tour-Begleiter** _(tour guide)_
+- `Wer ist unser Tour-Begleiter?` _(Who is our tour guide?)_
+- `Unsere Tour-Begleiterin ist Frau Müller.` _(Our tour guide is Mrs. Müller.)_
+
+<hr>
+
+**Bescheid sagen** _(to inform)_
+- `Können Sie mir Bescheid sagen, wenn der Termin verschoben wird?` _(Can you inform me if the appointment is postponed?)_
+- `Ja, ich werde Ihnen Bescheid sagen.` _(Yes, I will inform you.)_
+
+<hr>
+
+**das Zimmermädchen** _(maid)_
+- `Wer ist das Zimmermädchen für dieses Zimmer?` _(Who is the maid for this room?)_
+- `Das Zimmermädchen für dieses Zimmer ist Frau Schneider.` _(The maid for this room is Mrs. Schneider.)_
+
+<hr>
+
+**gründlich** _(thorough)_
+- `Haben Sie das Haus gründlich gereinigt?` _(Did you clean the house thoroughly?)_
+- `Ja, ich habe das Haus gründlich gereinigt.` _(Yes, I cleaned the house thoroughly.)_
+
+<hr>
+
+**die Banküberweisung** _(bank transfer)_
+- `Haben Sie die Banküberweisung bereits getätigt?` _(Have you already made the bank transfer?)_
+- `Ja, ich habe die Banküberweisung bereits getätigt.` _(Yes, I have already made the bank transfer.)_
+
+<hr>
+
+**die Überweisung** _(transfer)_
+- `Haben Sie die Überweisung bereits abgeschlossen?` _(Have you already completed the transfer?)_
+- `Ja, ich habe die Überweisung bereits abgeschlossen.` _(Yes, I have already completed the transfer.)_
+
+<hr>
+
+**die Mailbox** _(mailbox)_
+- `Ist Ihre Mailbox voll?` _(Is your mailbox full?)_
+- `Nein, meine Mailbox ist nicht voll.` _(No, my mailbox is not full.)_
+
+<hr>
+
+**der Fehler** _(mistake)_
+- `Haben Sie einen Fehler gemacht?` _(Did you make a mistake?)_
+- `Ja, ich habe einen Fehler gemacht.` _(Yes, I made a mistake.)_
+
+<hr>
+
+**die Vermietungsfirma** _(rental company)_
+- `Haben Sie die Vermietungsfirma kontaktiert?` _(Have you contacted the rental company?)_
+- `Ja, ich habe die Vermietungsfirma kontaktiert.` _(Yes, I have contacted the rental company.)_
+
+<hr>
+
+**zurückrufen** _(to call back)_
+- `Werden Sie mich zurückrufen?` _(Will you call me back?)_
+- `Ja, ich werde Sie zurückrufen.` _(Yes, I will call you back.)_
+
+<hr>
+
+**die Hilfe** _(help)_
+- `Brauchen Sie meine Hilfe?` _(Do you need my help?)_
+- `Ja, ich brauche Ihre Hilfe.` _(Yes, I need your help.)_
+
+<hr>
+
+**das Ausland** _(foreign country)_
+- `Waren Sie schon einmal im Ausland?` _(Have you ever been abroad?)_
+- `Ja, ich war schon einmal im Ausland.` _(Yes, I have been abroad before.)_
+
+<hr>
+
+**sparen** _(to save)_
+- `Sparen Sie Geld für einen Urlaub?` _(Are you saving money for a holiday?)_
+- `Ja, ich spare Geld für einen Urlaub.` _(Yes, I'm saving money for a holiday.)_
+
+<hr>
+
+**Geld sparen** _(to save money)_
+- `Versuchen Sie, Geld zu sparen?` _(Are you trying to save money?)_
+- `Ja, ich versuche, Geld zu sparen.` _(Yes, I'm trying to save money.)_
+
+<hr>
+
+**die Espressomaschine** _(espresso machine)_
+- `Haben Sie eine Espressomaschine zu Hause?` _(Do you have an espresso machine at home?)_
+- `Ja, ich habe eine Espressomaschine zu Hause.` _(Yes, I have an espresso machine at home.)_
+
+<hr>
+
+**schwedisch** _(Swedish)_
+- `Sprechen Sie Schwedisch?` _(Do you speak Swedish?)_
+- `Ja, ich spreche Schwedisch.` _(Yes, I speak Swedish.)_
+
+<hr>
+
+**das Zeugnis** _(report)_
+- `Haben Sie Ihr Zeugnis erhalten?` _(Did you get your report?)_
+- `Ja, ich habe mein Zeugnis erhalten.` _(Yes, I got my report.)_
+
+<hr>
+
+**das Dokument** _(document)_
+- `Haben Sie das Dokument unterschrieben?` _(Did you sign the document?)_
+- `Ja, ich habe das Dokument unterschrieben.` _(Yes, I signed the document.)_
+
+<hr>
+
+**die Reinigung** _(cleaner's)_
+- `Haben Sie Ihre Kleidung zur Reinigung gebracht?` _(Did you take your clothes to the cleaner's?)_
+- `Ja, ich habe meine Kleidung zur Reinigung gebracht.` _(Yes, I took my clothes to the cleaner's.)_
+
+<hr>
+
+**reinigen** _(to clean)_
+- `Haben Sie den Tisch gereinigt?` _(Did you clean the table?)_
+- `Ja, ich habe den Tisch gereinigt.` _(Yes, I cleaned the table.)_
+
+<hr>
+
+**der Wunschtermin** _(desired date)_
+- `Haben Sie einen Wunschtermin für den Termin?` _(Do you have a desired date for the appointment?)_
+- `Ja, ich habe einen Wunschtermin.` _(Yes, I have a desired date.)_
+
+<hr>
+
+**das Service-Angebot** _(service offer)_
+- `Haben Sie unser neuestes Service-Angebot gesehen?` _(Have you seen our latest service offer?)_
+- `Ja, ich habe Ihr neuestes Service-Angebot gesehen.` _(Yes, I have seen your latest service offer.)_
+
+<hr>
+
+**die Fensterreinigung** _(window cleaning)_
+- `Können Sie eine Fensterreinigung durchführen?` _(Can you do a window cleaning?)_
+- `Ja, ich kann eine Fensterreinigung durchführen.` _(Yes, I can do a window cleaning.)_
+
+<hr>
+
+**putzen** _(to clean)_
+- `Haben Sie Ihre Zähne geputzt?` _(Did you brush your teeth?)_
+- `Ja, ich habe meine Zähne geputzt.` _(Yes, I brushed my teeth.)_
+
+<hr>
+
+**das Glas** _(glass)_
+- `Ist das ein Glas Wasser?` _(Is that a glass of water?)_
+- `Ja, das ist ein Glas Wasser.` _(Yes, that is a glass of water.)_
+
+<hr>
+
+**aus Glas** _(of glass)_
+- `Ist dieser Tisch aus Glas?` _(Is this table made of glass?)_
+- `Ja, dieser Tisch ist aus Glas.` _(Yes, this table is made of glass.)_
+
+<hr>
+
+**das Dachfenster** _(skylight)_
+- `Haben Sie ein Dachfenster in Ihrem Haus?` _(Do you have a skylight in your house?)_
+- `Ja, ich habe ein Dachfenster in meinem Haus.` _(Yes, I have a skylight in my house.)_
+
+<hr>
+
+**das Dach** _(roof)_
+- `Ist das Dach dicht?` _(Is the roof sealed?)_
+- `Ja, das Dach ist dicht.` _(Yes, the roof is sealed.)_
+
+<hr>
+
+**der Wintergarten** _(winter garden)_
+- `Haben Sie einen Wintergarten zu Hause?` _(Do you have a winter garden at home?)_
+- `Ja, ich habe einen Wintergarten zu Hause.` _(Yes, I have a winter garden at home.)_
+
+<hr>
+
+**das Reinigungsmaterial** _(cleaning material)_
+- `Haben Sie genug Reinigungsmaterial?` _(Do you have enough cleaning material?)_
+- `Ja, ich habe genug Reinigungsmaterial.` _(Yes, I have enough cleaning material.)_
+
+<hr>
+
+**das Übersetzungsbüro** _(translation agency)_
+- `Haben Sie das Übersetzungsbüro kontaktiert?` _(Did you contact the translation agency?)_
+- `Ja, ich habe das Übersetzungsbüro kontaktiert.` _(Yes, I contacted the translation agency.)_
+
+<hr>
+
+**das Beste geben** _(to give the best)_
+- `Gibst du immer dein Bestes?` _(Do you always give your best?)_
+- `Ja, ich gebe immer mein Bestes.` _(Yes, I always give my best.)_
+
+<hr>
+
+**Wir geben unser Bestes** _(We give our best)_
+- `Gebt ihr euer Bestes?` _(Are you giving your best?)_
+- `Ja, wir geben unser Bestes.` _(Yes, we are giving our best.)_
+
+<hr>
+
+**das Beste** _(the best)_
+- `Ist das das Beste, was du kannst?` _(Is this the best you can do?)_
+- `Ja, das ist das Beste, was ich kann.` _(Yes, this is the best I can do.)_
+
+<hr>
+
+**auf der ganzen Welt** _(all over the world)_
+- `Reist du auf der ganzen Welt?` _(Do you travel all over the world?)_
+- `Ja, ich reise auf der ganzen Welt.` _(Yes, I travel all over the world.)_
+
+<hr>
+
+**der Mitarbeiter** _(employee)_
+- `Bist du ein Mitarbeiter dieser Firma?` _(Are you an employee of this company?)_
+- `Ja, ich bin ein Mitarbeiter dieser Firma.` _(Yes, I am an employee of this company.)_
+
+<hr>
+
+**die Übersetzung** _(translation)_
+- `Ist das eine genaue Übersetzung?` _(Is this an accurate translation?)_
+- `Ja, das ist eine genaue Übersetzung.` _(Yes, this is an accurate translation.)_
+
+<hr>
+
+**westeuropäisch** _(West European)_
+- `Bist du westeuropäisch?` _(Are you West European?)_
+- `Ja, ich bin westeuropäisch.` _(Yes, I am West European.)_
+
+<hr>
+
+**osteuropäisch** _(East European)_
+- `Bist du osteuropäisch?` _(Are you East European?)_
+- `Ja, ich bin osteuropäisch.` _(Yes, I am East European.)_
+
+<hr>
+
+**skandinavisch** _(Scandinavian)_
+- `Bist du skandinavisch?` _(Are you Scandinavian?)_
+- `Ja, ich bin skandinavisch.` _(Yes, I am Scandinavian.)_
+
+<hr>
+
+**südeuropäisch** _(Southern European)_
+- `Bist du südeuropäisch?` _(Are you Southern European?)_
+- `Ja, ich bin südeuropäisch.` _(Yes, I am Southern European.)_
+
+<hr>
+
+**asiatisch** _(Asian)_
+- `Ist das asiatisches Essen?` _(Is that Asian food?)_
+- `Ja, das ist asiatisches Essen.` _(Yes, that is Asian food.)_
+
+<hr>
+
+**arabisch** _(Arabic)_
+- `Sprichst du Arabisch?` _(Do you speak Arabic?)_
+- `Ja, ich spreche Arabisch.` _(Yes, I speak Arabic.)_
+
+<hr>
+
+**das Kontaktformular** _(contact form)_
+- `Hast du das Kontaktformular ausgefüllt?` _(Did you fill out the contact form?)_
+- `Ja, ich habe das Kontaktformular ausgefüllt.` _(Yes, I filled out the contact form.)_
+
+<hr>
+
+**das Rad** _(wheel)_
+- `Ist das Rad kaputt?` _(Is the wheel broken?)_
+- `Ja, das Rad ist kaputt.` _(Yes, the wheel is broken.)_
+
+<hr>
+
+**Pizza auf Rädern** _(pizza on wheels)_
+- `Bestellst du eine Pizza auf Rädern?` _(Are you ordering a pizza on wheels?)_
+- `Ja, ich bestelle eine Pizza auf Rädern.` _(Yes, I'm ordering a pizza on wheels.)_
+
+<hr>
+
+**bestellen** _(to order)_
+- `Hast du das Essen bestellt?` _(Did you order the food?)_
+- `Ja, ich habe das Essen bestellt.` _(Yes, I ordered the food.)_
+
+<hr>
+
+**der Ruhetag** _(closing day)_
+- `Ist heute ein Ruhetag?` _(Is today a closing day?)_
+- `Ja, heute ist ein Ruhetag.` _(Yes, today is a closing day.)_
+
+<hr>
+
+**das Mittagsangebot** _(lunch offer)_
+- `Nimmst du das Mittagsangebot?` _(Are you taking the lunch offer?)_
+- `Ja, ich nehme das Mittagsangebot.` _(Yes, I am taking the lunch offer.)_
+
+<hr>
+
+**das Nudelgericht** _(pasta dish)_
+- `Ist das ein Nudelgericht?` _(Is that a pasta dish?)_
+- `Ja, das ist ein Nudelgericht.` _(Yes, that's a pasta dish.)_
+
+<hr>
+
+**die Nudel** _(noodle)_
+- `Ist das eine Nudel?` _(Is that a noodle?)_
+- `Ja, das ist eine Nudel.` _(Yes, that's a noodle.)_
+
+<hr>
+
+**der Maxi-Pizza-Tag** _(maxi pizza day)_
+- `Ist heute Maxi-Pizza-Tag?` _(Is today a maxi pizza day?)_
+- `Ja, heute ist Maxi-Pizza-Tag.` _(Yes, today is a maxi pizza day.)_
+
+<hr>
+
+**der Parkservice** _(valet parking)_
+- `Bietet das Hotel einen Parkservice an?` _(Does the hotel offer valet parking?)_
+- `Ja, das Hotel bietet einen Parkservice an.` _(Yes, the hotel offers valet parking.)_
+
+<hr>
+
+**genießen** _(to enjoy)_
+- `Genießt du das Essen?` _(Are you enjoying the food?)_
+- `Ja, ich genieße das Essen.` _(Yes, I am enjoying the food.)_
+
+<hr>
+
+**stressfrei** _(stress-free)_
+- `Ist dein Tag stressfrei?` _(Is your day stress-free?)_
+- `Ja, mein Tag ist stressfrei.` _(Yes, my day is stress-free.)_
+
+<hr>
+
+**der Transfer** _(transfer)_
+- `Wann ist der Transfer zum Flughafen?` _(When is the transfer to the airport?)_
+- `Der Transfer zum Flughafen ist um 10 Uhr.` _(The transfer to the airport is at 10 o'clock.)_
+
+<hr>
+
+**der Terminal** _(terminal)_
+- `An welchem Terminal müssen wir aussteigen?` _(At which terminal do we have to get off?)_
+- `Wir müssen am Terminal 2 aussteigen.` _(We have to get off at Terminal 2.)_
+
+<hr>
+
+**lohnen** _(sich)** _(to be worth it)_
+- `Lohnt es sich, das Museum zu besuchen?` _(Is it worth visiting the museum?)_
+- `Ja, es lohnt sich, das Museum zu besuchen.` _(Yes, it is worth visiting the museum.)_
+
+<hr>
+
+**mit Freude** _(gladly)_
+- `Würdest du mir mit Freude helfen?` _(Would you gladly help me?)_
+- `Ja, ich würde dir mit Freude helfen.` _(Yes, I would gladly help you.)_
+
+<hr>
+
+**die Freude** _(joy)_
+- `Hast du Freude an deiner Arbeit?` _(Do you take joy in your work?)_
+- `Ja, ich habe Freude an meiner Arbeit.` _(Yes, I take joy in my work.)_
+
+<hr>
+
+**das Ersatzteil** _(spare part)_
+- `Hast du das Ersatzteil für das Auto?` _(Do you have the spare part for the car?)_
+- `Ja, ich habe das Ersatzteil für das Auto.` _(Yes, I have the spare part for the car.)_
+
+<hr>
+
+**auf Lager haben** _(to have in stock)_
+- `Haben Sie dieses Buch auf Lager?` _(Do you have this book in stock?)_
+- `Ja, wir haben dieses Buch auf Lager.` _(Yes, we have this book in stock.)_
+
+<hr>
+
+**das Lager** _(stock)_
+- `Wo ist das Lager?` _(Where is the stock?)_
+- `Das Lager ist im Keller.` _(The stock is in the basement.)_
+
+<hr>
+
+**telefonisch** _(by** _(tele)phone)_
+- `Kann ich telefonisch bestellen?` _(Can I order by phone?)_
+- `Ja, Sie können telefonisch bestellen.` _(Yes, you can order by phone.)_
+
+<hr>
+
+**die Beratung** _(consultation)_
+- `Bieten Sie eine Beratung an?` _(Do you offer a consultation?)_
+- `Ja, wir bieten eine Beratung an.` _(Yes, we offer a consultation.)_
+
+<hr>
+
+**der Service-Mitarbeiter / die Service-Mitarbeiterin** _(service technician)_
+- `Ist der Service-Mitarbeiter bereits angekommen?` _(Has the service technician already arrived?)_
+- `Ja, der Service-Mitarbeiter ist bereits angekommen.` _(Yes, the service technician has already arrived.)_
+
+<hr>
+
+**Nichts zu danken** _(You are welcome)_
+- `Dankeschön für Ihre Hilfe.` _(Thank you for your help.)_
+- `Nichts zu danken.` _(You're welcome.)_
+
+<hr>
+
+**der Kaffeeservice** _(coffee service)_
+- `Haben Sie einen Kaffeeservice?` _(Do you have a coffee service?)_
+- `Ja, wir haben einen Kaffeeservice.` _(Yes, we have a coffee service.)_
+
+<hr>
+
+**der Hausaufgaben-Service** _(homework service)_
+- `Bietet die Schule einen Hausaufgaben-Service an?` _(Does the school offer a homework service?)_
+- `Ja, die Schule bietet einen Hausaufgaben-Service an.` _(Yes, the school offers a homework service.)_
+
+<hr>
+
+**die Sportgruppe** _(sports group)_
+- `Bist du Mitglied einer Sportgruppe?` _(Are you a member of a sports group?)_
+- `Ja, ich bin Mitglied einer Sportgruppe.` _(Yes, I am a member of a sports group.)_
+
+<hr>
+
+**der Snack** _(snack)_
+- `Möchtest du einen Snack?` _(Would you like a snack?)_
+- `Ja, ich möchte einen Snack.` _(Yes, I would like a snack.)_
+
+<hr>
+
+**der Sportschuh** _(trainer** _(BE) / sneaker** _(AE))_
+- `Wo sind meine Sportschuhe?` _(Where are my trainers/sneakers?)_
+- `Deine Sportschuhe sind im Schrank.` _(Your trainers/sneakers are in the cupboard.)_
+
+<hr>
+
+**die Laune** _(mood)_
+- `Wie ist deine Laune heute?` _(What's your mood today?)_
+- `Meine Laune ist heute gut.` _(My mood is good today.)_
+
+<hr>
+
+**gute Laune** _(good mood)_
+- `Hast du gute Laune?` _(Are you in a good mood?)_
+- `Ja, ich habe gute Laune.` _(Yes, I am in a good mood.)_
+
+<hr>
+
+**der Ball** _(ball)_
+- `Wo ist der Ball?` _(Where is the ball?)_
+- `Der Ball ist im Garten.` _(The ball is in the garden.)_
+
+<hr>
+
+**Grammatik** _(grammar)_
+- `Verstehst du diese Grammatikregel?` _(Do you understand this grammar rule?)_
+- `Ja, ich verstehe diese Grammatikregel.` _(Yes, I understand this grammar rule.)_
+
+<hr>
+
+**Lernziele** _(learning objectives)_
+- `Was sind deine Lernziele?` _(What are your learning objectives?)_
+- `Meine Lernziele sind, mein Vokabular zu erweitern und fließender zu sprechen.` _(My learning objectives are to expand my vocabulary and to speak more fluently.)_
+
+<hr>
+
+**die Zeitangabe** _(time specification)_
+- `Kannst du mir eine Zeitangabe geben, wann du fertig bist?` _(Can you give me a time specification when you'll be finished?)_
+- `Ich werde in etwa einer Stunde fertig sein.` _(I'll be finished in about an hour.)_
+
+<hr>
+
+**die Service-Anzeige** _(service advertisement)_
+- `Hast du die Service-Anzeige gesehen?` _(Did you see the service advertisement?)_
+- `Ja, ich habe die Service-Anzeige gesehen.` _(Yes, I saw the service advertisement.)_
+
+<hr>
+
+**die Dienstleistung** _(services)_
+- `Welche Dienstleistungen bietet Ihr Unternehmen an?` _(What services does your company offer?)_
+- `Unser Unternehmen bietet IT-Dienstleistungen an.` _(Our company offers IT services.)_
+
+<hr>
+
+**Zwischendurch mal** _(in between times)_
+- `Was machst du zwischendurch mal?` _(What do you do in between times?)_
+- `Zwischendurch lese ich ein Buch oder höre Musik.` _(In between times, I read a book or listen to music.)_
+
+<hr>
+
+**Spiel** _(game)_
+- `Möchtest du ein Spiel spielen?` _(Do you want to play a game?)_
+- `Ja, ich würde gerne ein Spiel spielen.` _(Yes, I would like to play a game.)_
+
+<hr>
+
+**die Geschäftsidee** _(business idea)_
+- `Was ist deine Geschäftsidee?` _(What is your business idea?)_
+- `Meine Geschäftsidee ist ein Online-Buchladen.` _(My business idea is an online bookstore.)_
+
+<hr>
+
+**gehen um** _(to be about)_
+- `Worum geht es in diesem Buch?` _(What is this book about?)_
+- `Es geht um Abenteuer und Freundschaft.` _(It's about adventure and friendship.)_
+
+<hr>
+
+**der Basketball** _(basketball)_
+- `Spielst du gerne Basketball?` _(Do you like to play basketball?)_
+- `Ja, ich spiele gerne Basketball.` _(Yes, I like to play basketball.)_
+
+<hr>
+
+**der Drink** _(drink)_
+- `Möchtest du einen Drink?` _(Would you like a drink?)_
+- `Ja, ich hätte gerne einen Drink.` _(Yes, I would like a drink.)_
+
+<hr>
+
+**mixen** _(to mix)_
+- `Kannst du die Farben mixen?` _(Can you mix the colors?)_
+- `Ja, ich kann die Farben mixen.` _(Yes, I can mix the colors.)_
+
+<hr>
+
+**der Sportfan** _(sports fan)_
+- `Bist du ein Sportfan?` _(Are you a sports fan?)_
+- `Ja, ich bin ein großer Sportfan.` _(Yes, I'm a big sports fan.)_
+
+<hr>
+
+**der Backkurs** _(baking course)_
+- `Möchtest du einen Backkurs besuchen?` _(Would you like to attend a baking course?)_
+- `Ja, ich würde gerne einen Backkurs besuchen.` _(Yes, I would like to attend a baking course.)_
+
+<hr>
+
+**Film** _(film)_
+- `Welchen Film möchtest du sehen?` _(Which film would you like to watch?)_
+- `Ich möchte den neuesten Marvel-Film sehen.` _(I would like to watch the latest Marvel film.)_
+
+<hr>
+
+**das Reiseziel** _(travel destination)_
+- `Was ist dein nächstes Reiseziel?` _(What is your next travel destination?)_
+- `Mein nächstes Reiseziel ist Japan.` _(My next travel destination is Japan.)_
+
+<hr>
+
+**Landeskunde** _(cultural studies)_
+- `Studierst du Landeskunde?` _(Are you studying cultural studies?)_
+- `Ja, ich studiere Landeskunde.` _(Yes, I am studying cultural studies.)_
+
+<hr>
+
+**der König** _(king)_
+- `Wer ist der König in dieser Geschichte?` _(Who is the king in this story?)_
+- `Der König in dieser Geschichte ist König Arthur.` _(The king in this story is King Arthur.)_
+
+<hr>
+
+**das Schloss** _(castle)_
+- `Hast du schon einmal ein Schloss besucht?` _(Have you ever visited a castle?)_
+- `Ja, ich habe ein Schloss in Schottland besucht.` _(Yes, I visited a castle in Scotland.)_
+
+<hr>
+
+**die Entspannung** _(relaxation)_
+- `Was tust du zur Entspannung?` _(What do you do for relaxation?)_
+- `Zur Entspannung lese ich ein Buch oder höre Musik.` _(For relaxation, I read a book or listen to music.)_
+
+<hr>
+
+**erleben** _(to experience)_
+- `Was möchtest du erleben?` _(What do you want to experience?)_
+- `Ich möchte ein Abenteuer erleben.` _(I want to experience an adventure.)_
+
+<hr>
+
+**das Traumschloss** _(dream castle)_
+- `Wie sieht dein Traumschloss aus?` _(What does your dream castle look like?)_
+- `Mein Traumschloss ist groß und hat viele Zimmer.` _(My dream castle is large and has many rooms.)_
+
+<hr>
+
+**das Märchenschloss** _(fairytale castle)_
+- `Hast du schon einmal ein Märchenschloss besucht?` _(Have you ever visited a fairytale castle?)_
+- `Ja, ich habe das Schloss Neuschwanstein besucht, das wie ein Märchenschloss aussieht.` _(Yes, I visited Neuschwanstein Castle, which looks like a fairytale castle.)_
+
+<hr>
+
+**wunderschön** _(beautiful)_
+- `Ist der Sonnenuntergang nicht wunderschön?` _(Isn't the sunset beautiful?)_
+- `Ja, der Sonnenuntergang ist wirklich wunderschön.` _(Yes, the sunset is really beautiful.)_
+
+<hr>
+
+**die Landschaft** _(landscape)_
+- `Magst du die Landschaft hier?` _(Do you like the landscape here?)_
+- `Ja, die Landschaft hier ist atemberaubend.` _(Yes, the landscape here is breathtaking.)_
+
+<hr>
+
+**Erwarten** _(to await)_
+- `Was erwarten Sie von dieser Konferenz?` _(What do you expect from this conference?)_
+- `Ich erwarte nützliche Informationen.` _(I expect useful information.)_
+
+<hr>
+
+**Das Willkommensgetränk** _(welcome drink)_
+- `Was ist das Willkommensgetränk heute Abend?` _(What is the welcome drink tonight?)_
+- `Das Willkommensgetränk ist ein Glas Champagner.` _(The welcome drink is a glass of champagne.)_
+
+<hr>
+
+**Starten** _(to start)_
+- `Wann starten wir die Besprechung?` _(When do we start the meeting?)_
+- `Wir starten die Besprechung um 10 Uhr.` _(We start the meeting at 10 o'clock.)_
+
+<hr>
+
+**Die Schlossführung** _(castle tour)_
+- `Haben Sie an der Schlossführung teilgenommen?` _(Did you participate in the castle tour?)_
+- `Ja, ich habe an der Schlossführung teilgenommen.` _(Yes, I participated in the castle tour.)_
+
+<hr>
+
+**Herrlich** _(wonderful)_
+- `Wie war Ihr Urlaub?` _(How was your vacation?)_
+- `Mein Urlaub war herrlich.` _(My vacation was wonderful.)_
+
+<hr>
+
+**Das Badegelände** _(swimming area)_
+- `Wo ist das Badegelände?` _(Where is the swimming area?)_
+- `Das Badegelände ist neben dem Hotel.` _(The swimming area is next to the hotel.)_
+
+<hr>
+
+**Königlich** _(royal)_
+- `Wie war das Festmahl?` _(How was the banquet?)_
+- `Das Festmahl war königlich.` _(The banquet was royal.)_
+
+<hr>
+
+**Das Bad** _(bath)_
+- `Möchten Sie ein Bad nehmen?` _(Would you like to take a bath?)_
+- `Ja, ich möchte ein Bad nehmen.` _(Yes, I would like to take a bath.)_
+
+<hr>
+
+**Die Rosenblüte** _(rose petal)_
+- `Was ist das auf dem Tisch?` _(What is that on the table?)_
+- `Das ist eine Rosenblüte.` _(That's a rose petal.)_
+
+<hr>
+
+**Romantisch** _(romantic)_
+- `Wie war dein Abendessen?` _(How was your dinner?)_
+- `Mein Abendessen war romantisch.` _(My dinner was romantic.)_
+
+<hr>
+
+**Das Menü** _(menu)_
+- `Was ist auf dem Menü heute Abend?` _(What is on the menu tonight?)_
+- `Auf dem Menü stehen Pasta und Salat.` _(Pasta and salad are on the menu.)_
+
+<hr>
+
+**Das Kerzenlicht** _(candlelight)_
+- `Ist das Kerzenlicht genug zum Lesen?` _(Is the candlelight enough to read?)_
+- `Nein, das Kerzenlicht ist nicht genug zum Lesen.` _(No, the candlelight is not enough to read.)_
+
+<hr>
+
+**Die Spezialität** _(speciality)_
+- `Was ist die Spezialität des Hauses?` _(What is the speciality of the house?)_
+- `Die Spezialität des Hauses ist Rindergulasch.` _(The speciality of the house is beef goulash.)_
+
+<hr>
+
+**Stehen** _(to be available)_
+- `Steht der Saal für den Termin zur Verfügung?` _(Is the hall available for the date?)_
+- `Ja, der Saal steht zur Verfügung.` _(Yes, the hall is available.)_
+
+<hr>
+
+**Das Frühstücksbrunch** _(breakfast brunch)_
+- `Was gibt es zum Frühstücksbrunch?` _(What is there for breakfast brunch?)_
+- `Zum Frühstücksbrunch gibt es Rührei und Toast.` _(There is scrambled eggs and toast for breakfast brunch.)_
+
+<hr>
+
+**Das Ausflugsangebot** _(excursion offers)_
+- `Was sind die Ausflugsangebote heute?` _(What are the excursion offers today?)_
+- `Die Ausflugsangebote sind eine Stadttour und ein Museumsbesuch.` _(The excursion offers are a city tour and a museum visit.)_
+
+<hr>
+
+**Die Übernachtung** _(night)_
+- `Wie viele Übernachtungen sind im Paket enthalten?` _(How many nights are included in the package?)_
+- `Zwei Übernachtungen sind im Paket enthalten.` _(Two nights are included in the package.)_
+
+<hr>
+
+**Der Badestrand** _(beach)_
+- `Wo ist der nächste Badestrand?` _(Where is the nearest beach?)_
+- `Der nächste Badestrand ist 1 Kilometer entfernt.` _(The nearest beach is 1 kilometer away.)_
+
+<hr>
+
+**Das Picknick-Paket** _(picnic package)_
+- `Was ist im Picknick-Paket enthalten?` _(What is included in the picnic package?)_
+- `Im Picknick-Paket sind Sandwiches und Früchte enthalten.` _(Sandwiches and fruits are included in the picnic package.)_
+
+<hr>
+
+**Die Deutschprüfung** _(German language exam)_
+- `Wann haben Sie Ihre Deutschprüfung?` _(When is your German language exam?)_
+- `Meine Deutschprüfung ist nächsten Monat.` _(My German language exam is next month.)_
+
+<hr>
+
+**Das Smartphone** _(smartphone)_
+- `Haben Sie Ihr Smartphone dabei?` _(Do you have your smartphone with you?)_
+- `Ja, ich habe mein Smartphone dabei.` _(Yes, I have my smartphone with me.)_
+
+<hr>
+
+**Drucken** _(to print)_
+- `Können Sie das Dokument für mich drucken?` _(Can you print the document for me?)_
+- `Ja, ich kann das Dokument für Sie drucken.` _(Yes, I can print the document for you.)_
+
+<hr>
+
+**Die Balkontür** _(balcony door)_
+- `Ist die Balkontür offen?` _(Is the balcony door open?)_
+- `Ja, die Balkontür ist offen.` _(Yes, the balcony door is open.)_
+
+<hr>
+
+**Die Biotechnologie** _(biotechnology)_
+- `Interessieren Sie sich für Biotechnologie?` _(Are you interested in biotechnology?)_
+- `Ja, ich interessiere mich für Biotechnologie.` _(Yes, I am interested in biotechnology.)_
+
+<hr>
+
+**Der Sommertag** _(summer day)_
+- `Wie verbringen Sie Ihren Sommertag?` _(How do you spend your summer day?)_
+- `Ich verbringe meinen Sommertag am Strand.` _(I spend my summer day at the beach.)_
+
+<hr>
+
+**Der Grill** _(grill)_
+- `Haben Sie einen Grill?` _(Do you have a grill?)_
+- `Ja, ich habe einen Grill.` _(Yes, I have a grill.)_
+
+<hr>
+
+**Die Wohnungstür** _(front door)_
+- `Ist die Wohnungstür verschlossen?` _(Is the front door locked?)_
+- `Ja, die Wohnungstür ist verschlossen.` _(Yes, the front door is locked.)_
+
+<hr>
+
+**Der Friseur** _(hairdresser)_
+- `Wann haben Sie einen Termin beim Friseur?` _(When do you have an appointment with the hairdresser?)_
+- `Ich habe morgen einen Termin beim Friseur.` _(I have an appointment with the hairdresser tomorrow.)_
+
+<hr>
+
+**Schneiden** _(to cut)_
+- `Können Sie das Brot für mich schneiden?` _(Can you cut the bread for me?)_
+- `Ja, ich kann das Brot für Sie schneiden.` _(Yes, I can cut the bread for you.)_
+
+<hr>
+
+**Die Frisur** _(hairstyle)_
+- `Gefällt Ihnen meine neue Frisur?` _(Do you like my new hairstyle?)_
+- `Ja, Ihre neue Frisur sieht toll aus.` _(Yes, your new hairstyle looks great.)_
+
+<hr>
+
+**Der Shoppingservice** _(shopping service)_
+- `Nutzen Sie den Shoppingservice?` _(Do you use the shopping service?)_
+- `Ja, ich nutze den Shoppingservice.` _(Yes, I use the shopping service.)_
+
+<hr>
+
+**Das Outfit** _(outfit)_
+- `Gefällt dir mein Outfit?` _(Do you like my outfit?)_
+- `Ja, dein Outfit sieht fantastisch aus.` _(Yes, your outfit looks fantastic.)_
+
+<hr>
+
+**Der Nähservice** _(sewing service)_
+- `Bieten Sie einen Nähservice an?` _(Do you offer a sewing service?)_
+- `Ja, wir bieten einen Nähservice an.` _(Yes, we offer a sewing service.)_
+
+<hr>
+
+**Das Bistro** _(bistro)_
+- `Wo ist das nächste Bistro?` _(Where is the nearest bistro?)_
+- `Das nächste Bistro ist um die Ecke.` _(The nearest bistro is around the corner.)_
+
+<hr>
+
+**Leicht** _(light)_
+- `Ist diese Tasche leicht?` _(Is this bag light?)_
+- `Ja, diese Tasche ist sehr leicht.` _(Yes, this bag is very light.)_
+
+<hr>
+
+**Die Wartezeit** _(waiting time)_
+- `Wie lange ist die Wartezeit?` _(How long is the waiting time?)_
+- `Die Wartezeit beträgt etwa 15 Minuten.` _(The waiting time is about 15 minutes.)_
+
+<hr>
+
+**Die Telekommunikation** _(telecommunication)_
+- `Arbeiten Sie in der Telekommunikationsbranche?` _(Do you work in the telecommunication industry?)_
+- `Ja, ich arbeite in der Telekommunikationsbranche.` _(Yes, I work in the telecommunication industry.)_
+
+<hr>
+
+**Reagieren** _(to react)_
+- `Wie würdest du auf diese Nachricht reagieren?` _(How would you react to this news?)_
+- `Ich würde mit Überraschung reagieren.` _(I would react with surprise.)_
+
+<hr>
+
+**Das Faxgerät** _(fax machine)_
+- `Benutzen Sie noch ein Faxgerät?` _(Do you still use a fax machine?)_
+- `Nein, ich benutze kein Faxgerät mehr.` _(No, I no longer use a fax machine.)_
+
+<hr>
+
+**Die Deutschstunde** _(German lesson)_
+- `Wann beginnt Ihre Deutschstunde?` _(When does your German lesson begin?)_
+- `Meine Deutschstunde beginnt um 9 Uhr.` _(My German lesson starts at 9 o'clock.)_
+
+<hr>
+
+**Das DIN-/A3-Papier** _(DIN A3 paper)_
+- `Haben Sie DIN-A3-Papier?` _(Do you have DIN A3 paper?)_
+- `Ja, ich habe DIN-A3-Papier.` _(Yes, I have DIN A3 paper.)_
+
+<hr>
+
+**Der Ordner** _(binder)_
+- `Könnten Sie diesen Ordner für mich halten?` _(Could you hold this binder for me?)_
+- `Ja, ich kann diesen Ordner für Sie halten.` _(Yes, I can hold this binder for you.)_
+
+<hr>
+
+**Das Kopierpapier** _(copying paper)_
+- `Haben Sie genug Kopierpapier?` _(Do you have enough copying paper?)_
+- `Ja, ich habe genug Kopierpapier.` _(Yes, I have enough copying paper.)_
+
+<hr>
+
+**Der Laserdrucker** _(laser printer)_
+- `Haben Sie einen Laserdrucker?` _(Do you have a laser printer?)_
+- `Ja, ich habe einen Laserdrucker.` _(Yes, I have a laser printer.)_
+
+<hr>
+
+**Der Kugelschreiber** _(ballpoint pen)_
+- `Haben Sie einen Kugelschreiber?` _(Do you have a ballpoint pen?)_
+- `Ja, ich habe einen Kugelschreiber.` _(Yes, I have a ballpoint pen.)_
+
+<hr>
+
+**Die Bestellnummer** _(order number)_
+- `Was ist Ihre Bestellnummer?` _(What is your order number?)_
+- `Meine Bestellnummer ist 123456.` _(My order number is 123456.)_
+
+<hr>
+
+**Die Jacke** _(jacket)_
+- `Ist das deine Jacke?` _(Is that your jacket?)_
+- `Ja, das ist meine Jacke.` _(Yes, that's my jacket.)_
+
+<hr>
+
+**Der Mantel** _(coat)_
+- `Ist das Ihr Mantel?` _(Is that your coat?)_
+- `Ja, das ist mein Mantel.` _(Yes, that's my coat.)_
+
+<hr>
+
+**Die Regenjacke** _(rain jacket)_
+- `Hast du eine Regenjacke dabei?` _(Do you have a rain jacket with you?)_
+- `Ja, ich habe eine Regenjacke dabei.` _(Yes, I have a rain jacket with me.)_
+
+<hr>
+
+**Passen** _(to suit)_
+- `Passt dir dieses Hemd?` _(Does this shirt suit you?)_
+- `Ja, dieses Hemd passt mir gut.` _(Yes, this shirt suits me well.)_
+
+<hr>
+
+**Weit** _(loose)_
+- `Ist diese Hose zu weit für dich?` _(Is this pair of trousers too loose for you?)_
+- `Ja, diese Hose ist ein wenig weit für mich.` _(Yes, this pair of trousers is a bit loose for me.)_
+
+<hr>
+
+**Allein** _(on one’s own)_
+- `Gehst du oft allein ins Kino?` _(Do you often go to the cinema on your own?)_
+- `Ja, manchmal gehe ich allein ins Kino.` _(Yes, sometimes I go to the cinema on my own.)_
+
+<hr>
+
+**Bleiben** _(to be at)_
+- `Wirst du heute Abend zu Hause bleiben?` _(Will you stay at home tonight?)_
+- `Ja, ich werde heute Abend zu Hause bleiben.` _(Yes, I will stay at home tonight.)_
+
+<hr>
+
+**Stabil** _(sturdy)_
+- `Ist dieser Stuhl stabil?` _(Is this chair sturdy?)_
+- `Ja, dieser Stuhl ist sehr stabil.` _(Yes, this chair is very sturdy.)_
+
+<hr>
+
+**Das Stück** _(piece)_
+- `Möchten Sie ein Stück Kuchen?` _(Would you like a piece of cake?)_
+- `Ja, ich möchte ein Stück Kuchen.` _(Yes, I would like a piece of cake.)_
+
+<hr>
+
+**Der Inkjet-Drucker** _(inkjet printer)_
+- `Haben Sie einen Inkjet-Drucker?` _(Do you have an inkjet printer?)_
+- `Ja, ich habe einen Inkjet-Drucker.` _(Yes, I have an inkjet printer.)_
+
+<hr>
+
+**Der Bestellschein** _(order form)_
+- `Haben Sie den Bestellschein ausgefüllt?` _(Have you filled out the order form?)_
+- `Ja, ich habe den Bestellschein ausgefüllt.` _(Yes, I have filled out the order form.)_
+
+<hr>
+
+**Die Artikelbezeichnung** _(article description)_
+- `Was ist die Artikelbezeichnung dieses Produkts?` _(What is the article description of this product?)_
+- `Die Artikelbezeichnung dieses Produkts ist 'Damenhandtasche'.` _(The article description of this product is 'ladies' handbag'.)_
+
+<hr>
+
+**Gesamt** _(total)_
+- `Was ist der Gesamtbetrag Ihrer Bestellung?` _(What is the total amount of your order?)_
+- `Der Gesamtbetrag meiner Bestellung beträgt 50 Euro.` _(The total amount of my order is 50 Euros.)_
+
+<hr>
+
+**Der Gesamtbetrag** _(total amount)_
+- `Können Sie den Gesamtbetrag bestätigen?` _(Can you confirm the total amount?)_
+- `Ja, der Gesamtbetrag beträgt 100 Euro.` _(Yes, the total amount is 100 Euros.)_
+
+<hr>
+
+**Die Jacke** _(jacket)_
+- `Ist diese Jacke deine?` _(Is this jacket yours?)_
+- `Ja, diese Jacke ist meine.` _(Yes, this jacket is mine.)_
+
+<hr>
+
+**Der Mantel** _(coat)_
+- `Ist dieser Mantel deiner?` _(Is this coat yours?)_
+- `Ja, dieser Mantel ist meiner.` _(Yes, this coat is mine.)_
+
