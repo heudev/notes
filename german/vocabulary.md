@@ -23,8 +23,8 @@
 <hr>
 
 **Super** _(Great)_
-- `Wie geht es dir?` _(How are you?)_
-- `Mir geht es super.` _(I'm great.)_
+- `Was ist dein Lieblingssuperheld?` _(Who is your favorite superhero?)_
+- `Mein Lieblingssuperheld ist Superman.` _(My favorite superhero is Superman.)_
 
 <hr>
 
