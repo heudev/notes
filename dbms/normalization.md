@@ -18,7 +18,7 @@ Candidate key'in bir parçasıdır. \
 ### Partial Dependency 
 **Proper subset of any candidate key** -> (must determine) **non-prime atribute** 
 
-Not: Normalizasyon işleminde **candidate key** olmadan hiçbir şey yapalımaz.
+Not: Normalizasyon işleminde **candidate key** olmadan hiçbir şey yapalımaz. \
 Not: Candidate key super key'in minimal halidir.
 
 Örnek:
@@ -32,7 +32,10 @@ Not: Candidate key super key'in minimal halidir.
 * Proper Subset'lere bakılır.
 * **A⁺ = {ABCDE}** (Super Key değil)
 * **F⁺ = {F}** (Super Key değil)
+
 Not: Eğer proper subset ayrıca super key ise candidate key olmaz.
+
+
 * Bu durumda **AF** Candidate key olur.
 * Ayrıca **A** ve **F** prime atributes olur.
 * Non-prime atributes **B, C, D, E** olur.
